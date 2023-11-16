@@ -19,8 +19,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a computer systems enthusiast interested in ***networks, clouds, and distributed systems***. I got a PhD in workflow systems, cloud scheduling, and resource management from Melbourne CLOUDS Laboratory, The University of Melbourne.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am working with students at Universitas Indonesia on a real-time distributed system based on various approaches, including publish/subscribe techniques, fog computing architecture, real-time communication, and future-generation network protocols.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Nevertheless, I am open to interdisciplinary computing research that is closely related to my area of expertise (but not limited to):
+
+* ***Cybersecurity and Cryptography***: zero trust architecture, smart contracts, and blockchain technology.
+* ***Intelligent Systems***: real-time analytics, online incremental machine learning, IoT, and intelligent systems.
+* ***Software Engineering***: automated cloud deployment, cloud service discovery, microservices orchestration, and service mesh.
+
+I am available to supervise prospective Master's and PhD students at the Faculty of Computer Science, Universitas Indonesia.
+
+Visit https://muhammadhilman.github.io/ and drop a message if you have any interest to muhammad.hilman(at)ui.ac.id

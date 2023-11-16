@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cloud Computing and Distributed Systems Enthusiast
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Faculty of Computer Science</p>
+    <p>Universitas Indonesia</p>
+    <p>Kampus UI Depok, Jawa Barat 16424</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

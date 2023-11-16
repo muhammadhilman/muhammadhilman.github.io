@@ -37,6 +37,8 @@ nav_order: 1
 
 > **Centre for Computer Science (Pusilkom UI)**
 
+* **Digital Forensics** - *Komisi Nasional Hak Asasi Manusia* - 7-8 November 2023
+
 * **AI and Data Analytics for Business** - *BPJS Ketenagakerjaan RI* - 31 August - 2 September 2023
 
 * **AI and Data Analytics for Business** - *BPJS Ketenagakerjaan RI* - 20-22 July 2023

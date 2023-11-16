@@ -2,7 +2,7 @@
 layout: page
 permalink: /students/
 title: students
-description: current and past research supervisions
+description:
 nav: true
 nav_order: 2
 ---

@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: current and past teaching experiences
+description:
 nav: true
 nav_order: 1
 ---
@@ -37,33 +37,21 @@ nav_order: 1
 
 > **Centre for Computer Science (Pusilkom UI)**
 
-* **Digital Forensics** - *Komisi Nasional Hak Asasi Manusia* - 7-8 November 2023
+* **AI and Data Analytics for Business** - *BPJS Ketenagakerjaan RI*
 
-* **AI and Data Analytics for Business** - *BPJS Ketenagakerjaan RI* - 31 August - 2 September 2023
+* **Data Analytics** - *Direktorat Jenderal Perbendaharaan, Kementerian Keuangan RI*
 
-* **AI and Data Analytics for Business** - *BPJS Ketenagakerjaan RI* - 20-22 July 2023
+* **Data Science for Non Programmer** - *Direktorat Jenderal Perbendaharaan, Kementerian Keuangan RI | Pusilkom UI*
 
-* **Python for Data Analytics** - *Astra Financial* - 26 June-3 July 2023
+* **Data Science Bootcamp | Freshman Data Camp** - *Bank Sinarmas*
 
-* **Digital Forensics** - *Inspektorat Jenderal, Kementerian Pertanian RI* - 4-5 April 2023
+* **Digital Forensics** - *Pusilkom UI | Badan Pengawasan Obat dan Makanan RI | Inspektorat Jenderal, Kementerian Pertanian RI | Komisi Nasional Hak Asasi Manusia*
 
-* **Digital Forensics** - *Badan Pengawasan Obat dan Makanan RI* - 20 March 2023
+* **Python for Data Analytics** - *Astra Financial*
 
-* **Freshman Data Camp** - *Bank Sinarmas* - 13-31 March 2023
+* **Python for Data Science** - *Badan Meteorologi, Klimatologi, dan Geofisika RI*
 
-* **Data Analytics** - *Direktorat Jenderal Perbendaharaan, Kementerian Keuangan RI* - 21 June-1 July 2022
-
-* **Digital Forensics** - *Pusilkom UI* - 30-31 March 2022
-
-* **Secure Coding** - *Pusilkom UI* - 21-23 February 2022
-
-* **Data Science for Non Programmer** - *Pusilkom UI* - 13-17 December 2021
-
-* **Data Science for Non Programmer** - *Direktorat Jenderal Perbendaharaan, Kementerian Keuangan RI* - 1-9 November 2021
-
-* **Python for Data Science** - *Badan Meteorologi, Klimatologi, dan Geofisika RI* - 28-30 September 2021
-
-* **Data Science Bootcamp** - *Bank Sinarmas* - 2-16 August 2021
+* **Secure Coding** - *Pusilkom UI*
 
 > **The University of Melbourne**
 

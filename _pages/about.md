@@ -26,7 +26,7 @@ Currently, I am working with students at Universitas Indonesia on a real-time di
 Nevertheless, I am open to interdisciplinary computing research that is closely related to my area of expertise (but not limited to):
 
 * ***Cybersecurity and Cryptography***: zero trust architecture, smart contracts, and blockchain technology.
-* ***Intelligent Systems***: real-time analytics, online incremental machine learning, IoT, and intelligent systems.
+* ***Intelligent Systems***: real-time analytics, online incremental machine learning, IoT, and smart systems.
 * ***Software Engineering***: automated cloud deployment, cloud service discovery, microservices orchestration, and service mesh.
 
 I am available to supervise prospective Master's and PhD students at the Faculty of Computer Science, Universitas Indonesia.

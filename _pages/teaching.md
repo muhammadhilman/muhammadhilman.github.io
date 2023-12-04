@@ -41,11 +41,11 @@ nav_order: 1
 
 * **Data Analytics** - *Direktorat Jenderal Perbendaharaan, Kementerian Keuangan RI*
 
-* **Data Science for Non Programmer** - *Direktorat Jenderal Perbendaharaan, Kementerian Keuangan RI* | *Pusilkom UI*
+* **Data Science for Non Programmer** - *Direktorat Jenderal Perbendaharaan, Kementerian Keuangan RI* - *Pusilkom UI*
 
-* **Data Science Bootcamp | Freshman Data Camp** - *Bank Sinarmas*
+* **Data Science Bootcamp / Freshman Data Camp** - *Bank Sinarmas*
 
-* **Digital Forensics** - *Pusilkom UI* | *Badan Pengawasan Obat dan Makanan RI* | *Inspektorat Jenderal, Kementerian Pertanian RI* | *Komisi Nasional Hak Asasi Manusia*
+* **Digital Forensics** - *Pusilkom UI* - *Badan Pengawasan Obat dan Makanan RI* - *Inspektorat Jenderal, Kementerian Pertanian RI* - *Komisi Nasional Hak Asasi Manusia*
 
 * **Python for Data Analytics** - *Astra Financial*
 

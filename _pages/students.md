@@ -21,9 +21,9 @@ nav_order: 2
 
 ***Past***
 
-* [Michael Susanto](https://www.linkedin.com/in/michaelsusanto81/) (1-2023/2024) - Migration Strategy from Critical Legacy Monolithic to Microservice Systems.
+* [Michael Susanto](https://www.linkedin.com/in/michaelsusanto81/) (1-2023/2024) - Critical Legacy System Migration Strategy from Monolithic to Microservices Architecture: A Case Study of PT XYZ. [report](https://drive.google.com/file/d/1zBOhXd2_qaZYrfEx6XdGy4zkpVjlnQXq/view?usp=sharing), [slide](https://drive.google.com/file/d/1kRXBXvvaw7bkJQIAUUs6qmQLkd8UeLv4/view?usp=sharing), [repo](https://github.com/KAGoblin).
 
-* [Muhammad Ariq Basyar](https://www.linkedin.com/in/ariqbasyar/) (1-2023/2024) - FogVerse: Fog-based Architecture for Latency-aware Smart-CCTV System. Co-supervised with [Laksmita Rahadianti](https://www.linkedin.com/in/lrahadianti/).
+* [Muhammad Ariq Basyar](https://www.linkedin.com/in/ariqbasyar/) (1-2023/2024) - FogVerse: Throughput-aware Smart-CCTV Framework. [report](https://drive.google.com/file/d/10z-R-rRLVJpJp4IESAu_KMWNtjaZgjQb/view?usp=sharing), [slide](https://drive.google.com/file/d/1PhLafpkPtduSBw5qTGRmaFG0JQID6HMA/view?usp=sharing). Co-supervised with [Laksmita Rahadianti](https://www.linkedin.com/in/lrahadianti/).
 
 * [Haidlir Achmad Naqvi](https://www.linkedin.com/in/haidlir/) (2-2022/2023) - Improvements to the Practicality of Congestion Control Based on Deep Reinforcement Learning. [report](https://drive.google.com/file/d/1bUbfyjB8RQ0gfk0tO-kUxELsp03DoM23/view?usp=sharing), [slide](https://drive.google.com/file/d/1KsborQlt5FfonVFNK4eJFT7iGEwPZ_g9/view?usp=sharing), [repo1](https://github.com/haidlir/quic-go-mod-drl-cc), [repo2](https://github.com/haidlir/ns3-drl-cc). Co-supervised with [Bayu Anggorojati](https://www.monash.edu/indonesia/about-monash-in-indonesia/our-people/bayu-anggorojati).
 
@@ -39,9 +39,7 @@ nav_order: 2
 
 ***Past***
 
-* [Rafi Muhammad Daffa](https://rmdra08.medium.com/) (1-2023/2024) - Teaching Computer Networks Course with Flipped Classroom Approach. Co-supervised with [Made Harta Dwijaksara](https://www.linkedin.com/in/made-harta/).
-
-* Fawzan Fawzi Yusuf (1-2023/2024) - Versatile ChatBot Swarm with Python Selenium.
+* [Rafi Muhammad Daffa](https://rmdra08.medium.com/) (1-2023/2024) - Development of Transport Layer Learning Module using QUIC for Undergraduate-Level Computer Networks Course. [report](https://drive.google.com/file/d/1SmGIsicXNqvn6R4DolCQsxAguhmaM20A/view?usp=sharing), [slide](https://drive.google.com/file/d/19sks0H-_UmfU6X-AllsgHnTh-CTEku2_/view?usp=sharing). Co-supervised with [Made Harta Dwijaksara](https://www.linkedin.com/in/made-harta/).
 
 * [Aldi Naufal Fitrah](https://www.linkedin.com/in/aldi-naufal-fitrah/) (2-2022/2023) - Kafka-based Extensible High Throughput Streaming Platform for Social Media Data Processing. [report](https://drive.google.com/file/d/1RnplcLcUl6MF_Egyg_uiyW4ZJNNm73IR/view?usp=sharing), [slide](https://drive.google.com/file/d/1nEewOm5lrPxvMICVSyDKyMt3LZ5lcUMC/view?usp=sharing), [repo](https://github.com/AldiNFitrah/ta).
 

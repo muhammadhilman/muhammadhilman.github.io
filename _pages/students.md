@@ -19,11 +19,11 @@ nav_order: 2
 
 * [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (1-2023/2024) - Real-time Traffic Anomaly Detection with Networking Telemetry.
 
+***Past***
+
 * [Michael Susanto](https://www.linkedin.com/in/michaelsusanto81/) (1-2023/2024) - Migration Strategy from Critical Legacy Monolithic to Microservice Systems.
 
 * [Muhammad Ariq Basyar](https://www.linkedin.com/in/ariqbasyar/) (1-2023/2024) - FogVerse: Fog-based Architecture for Latency-aware Smart-CCTV System. Co-supervised with [Laksmita Rahadianti](https://www.linkedin.com/in/lrahadianti/).
-
-***Past***
 
 * [Haidlir Achmad Naqvi](https://www.linkedin.com/in/haidlir/) (2-2022/2023) - Improvements to the Practicality of Congestion Control Based on Deep Reinforcement Learning. [report](https://drive.google.com/file/d/1bUbfyjB8RQ0gfk0tO-kUxELsp03DoM23/view?usp=sharing), [slide](https://drive.google.com/file/d/1KsborQlt5FfonVFNK4eJFT7iGEwPZ_g9/view?usp=sharing), [repo1](https://github.com/haidlir/quic-go-mod-drl-cc), [repo2](https://github.com/haidlir/ns3-drl-cc). Co-supervised with [Bayu Anggorojati](https://www.monash.edu/indonesia/about-monash-in-indonesia/our-people/bayu-anggorojati).
 
@@ -33,15 +33,15 @@ nav_order: 2
 
 * Faisal Hanif (1-2023/2024) - Deployment Analysis of Indonesian Sign System (SIBI) 3D Animation Subtitle Generator with Kubernetes. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
 
-* [Rafi Muhammad Daffa](https://rmdra08.medium.com/) (1-2023/2024) - Teaching Computer Networks Course with Flipped Classroom Approach. Co-supervised with [Made Harta Dwijaksara](https://www.linkedin.com/in/made-harta/).
-
-* Fawzan Fawzi Yusuf (1-2023/2024) - Versatile ChatBot Swarm with Python Selenium.
-
 * [Rahadian Panji Ramadhan](www.linkedin.com/in/rahadian-panji/) and Steven Novaryo (1-2023/2024) - Versatile ChatBot Swarm with Python Selenium.
 
 * [Yusuf Fakhri Aldrian](https://www.linkedin.com/in/ysfakhria/) (1-2023/2024) - ASR Evaluation for Generating Sentences from Video. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
 
 ***Past***
+
+* [Rafi Muhammad Daffa](https://rmdra08.medium.com/) (1-2023/2024) - Teaching Computer Networks Course with Flipped Classroom Approach. Co-supervised with [Made Harta Dwijaksara](https://www.linkedin.com/in/made-harta/).
+
+* Fawzan Fawzi Yusuf (1-2023/2024) - Versatile ChatBot Swarm with Python Selenium.
 
 * [Aldi Naufal Fitrah](https://www.linkedin.com/in/aldi-naufal-fitrah/) (2-2022/2023) - Kafka-based Extensible High Throughput Streaming Platform for Social Media Data Processing. [report](https://drive.google.com/file/d/1RnplcLcUl6MF_Egyg_uiyW4ZJNNm73IR/view?usp=sharing), [slide](https://drive.google.com/file/d/1nEewOm5lrPxvMICVSyDKyMt3LZ5lcUMC/view?usp=sharing), [repo](https://github.com/AldiNFitrah/ta).
 

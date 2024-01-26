@@ -9,15 +9,19 @@ nav_order: 2
 
 > **PhD Student**
 
-* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (1-2023/2024) - Real-time Cheating Detection System for Computer-based Examination. Co-supervised with [Prof. Kasiyah](https://cs.ui.ac.id/personnel/kasiyah/)
+* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (2-2023/2024) - Real-time Cheating Detection System for Computer-based Examination. Co-supervised with [Prof. Kasiyah](https://cs.ui.ac.id/personnel/kasiyah/)
 
 > **Master Students**
 
 ***Current***
 
-* [Asaduddin As Zanky](https://www.linkedin.com/in/asaduddin-as-zanky/) (1-2023/2024) - Resource Management for Microservices using Kubernetes as Container Orchestration.
+* [Asaduddin As Zanky](https://www.linkedin.com/in/asaduddin-as-zanky/) (2-2023/2024) - Resource Management for Microservices using Kubernetes as Container Orchestration.
 
-* [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (1-2023/2024) - Real-time Traffic Anomaly Detection with Networking Telemetry.
+* [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (2-2023/2024) - Function-as-a-Service in Kubernetes Clusters.
+
+* [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (2-2023/2024) - Real-time Traffic Anomaly Detection with Networking Telemetry.
+
+* [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (2-2023/2024).
 
 ***Past***
 
@@ -31,13 +35,35 @@ nav_order: 2
 
 ***Current***
 
-* Faisal Hanif (1-2023/2024) - Deployment Analysis of Indonesian Sign System (SIBI) 3D Animation Subtitle Generator with Kubernetes. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
+* [Adrian Hakim Utomo](https://www.linkedin.com/in/adrian-utomo/), [Denny Johannes Hasea](https://www.linkedin.com/in/denny-johannes-hasea-75000420a/), and [Muhammad Rifqi Aditya](https://www.linkedin.com/in/muhammad-rifqi-praditya-3254771b9/) (2-2023/2024) - Development of Swarm-based Chatbot for Customer Service. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
 
-* [Rahadian Panji Ramadhan](www.linkedin.com/in/rahadian-panji/) and Steven Novaryo (1-2023/2024) - Versatile ChatBot Swarm with Python Selenium.
+* [Akbar Maliki Haqoni Jati](https://www.linkedin.com/in/akbar-maliki-haqoni-jati-7691601b9/) and [Haikal Rahman](https://www.linkedin.com/in/haikal-rahman-048427219/) (2-2023/2024) - Multi UAVs for Monitoring Disaster Area Based On Fogverse Framework.
 
-* [Yusuf Fakhri Aldrian](https://www.linkedin.com/in/ysfakhria/) (1-2023/2024) - ASR Evaluation for Generating Sentences from Video. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
+* [Bornyto Hamonangan](https://www.linkedin.com/in/bornyto-hamonangan/) (2-2023/2024) - Evaluation of Pod Limit Values in Kubernetes. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
+
+* [Brandon Ivander](https://www.linkedin.com/in/brandon-ivander/) and [Ikramullah](https://www.linkedin.com/in/ikramullah-0b17501aa/) (2-2023/2024) - Real-time Social Media Data Streaming Platform for Incident Detection with FogVerse Framework.
+
+* Faisal Hanif (2-2023/2024) - Deployment Analysis of Indonesian Sign System (SIBI) 3D Animation Subtitle Generator with Kubernetes. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
+
+* [Dixon Frederick](https://www.linkedin.com/in/dixon-frederick/), [Johannes Raka Triadana Nikaputra](https://www.linkedin.com/in/johanes-raka-triadana-nikaputra-988010136/), and [Reyza Abyan Gerrit Caloh](https://www.linkedin.com/in/reyza-caloh/) (2-2023/2024) - Internet Traffic Anomaly Detection with Network Telemetry.
+
+* [Immanuel](https://www.linkedin.com/in/immanuel-/), [Pradipta Davi Valendra](https://www.linkedin.com/in/pradipta-davi-valendra/), and [Tara Mazaya Lababan](https://www.linkedin.com/in/tara-mazaya-lababan/) (2-2023/2024) - Performance Analysis of GPUs on Openstack Nova, Zun, and Ironic Using Glmark2, Phoronix PyTorch, and Phoronix NAMD in the Cloud Computing Environment at the Faculty of Computer Science, Universitas Indonesia.
+
+* [Muhammad Tawfiqul Mawarid Nazaruddin Lopa](https://www.linkedin.com/in/taufiqul-mawarid-61392a279/) (2-2023/2024) - Prototype of Enhanced Congestion Control based on Deep Reinforcement Learning.
+
+* [Razita Afrina Nuriyan](https://www.linkedin.com/in/razita-afrina-nuriyan/) (2-2023/2024) - Improvement of Redundancy Values Due to the Use of Kokkos in LAMMPS (Large-Scale Atomic/Molecular Massively Parallel Simulator) Based on Analysis Results Using GVProf.
+
+* [Rahadian Panji Ramadhan](www.linkedin.com/in/rahadian-panji/) and Steven Novaryo (2-2023/2024) - Versatile ChatBot Swarm with Python Selenium.
+
+* [Yusuf Fakhri Aldrian](https://www.linkedin.com/in/ysfakhria/) (2-2023/2024) - ASR Evaluation for Generating Sentences from Video. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
+
+* [Vincent Suryakim](https://www.linkedin.com/in/vincentsuryakim/) (2-2023/2024) - Performance Comparison Between Namespace-based and Virtual Cluster Strategies in Kubernetes Multi-tenancy for e-Commerce Applications. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
 
 ***Past***
+
+* [Bisma Khomeini](https://www.linkedin.com/in/mbiskho/), [Dzikri Qalam Hatorangan](https://www.linkedin.com/in/dzikriqalam/), and [Muhammad Haqqi Al Farizi](https://www.linkedin.com/in/muhammad-haqqi-a-117a18190/) (1-2023/2024) - MLOps Design for Generative AI Models with Chaos Engineering-Based Testing. [report](https://drive.google.com/file/d/1VbDmj_UHcyhT2GEHeXNktr6AdFqJwTEg/view?usp=sharing), [slide](https://drive.google.com/file/d/1g1nZufm_SzIbWtgfd52iGscnVLgEpmuy/view?usp=sharing). Co-supervised with [Ari Wibisono](https://www.linkedin.com/in/ari-wibisono-84ba9828/).
+
+* [Faris Haidar Zuhdi](https://www.linkedin.com/in/faris-haidar-zuhdi-0749bb1bb/) and [Muhammad Kenshin Himura Mahmuddin](https://www.linkedin.com/in/muhammad-kenshin-himura-mahmuddin-3670a61ba/) (1-2023/2024) - Implementation and Evaluation of Secure Decentralized Instant Messaging with VoIP Utilizing XMPP/OMEMO and WebRTC. [report](https://drive.google.com/file/d/19P2iT6gRv07P9rKQQKhCOUb2v_MWOr03/view?usp=sharing), [slide](https://drive.google.com/file/d/1Es7WNeEy_GiCRyXhkYg-YAP8GSi7fZK7/view?usp=sharing). Co-supervised with [Amril Syalim](https://www.linkedin.com/in/amril-syalim/).
 
 * [Rafi Muhammad Daffa](https://rmdra08.medium.com/) (1-2023/2024) - Development of Transport Layer Learning Module using QUIC for Undergraduate-Level Computer Networks Course. [report](https://drive.google.com/file/d/1SmGIsicXNqvn6R4DolCQsxAguhmaM20A/view?usp=sharing), [slide](https://drive.google.com/file/d/19sks0H-_UmfU6X-AllsgHnTh-CTEku2_/view?usp=sharing). Co-supervised with [Made Harta Dwijaksara](https://www.linkedin.com/in/made-harta/).
 

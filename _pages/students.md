@@ -9,19 +9,23 @@ nav_order: 2
 
 > **PhD Student**
 
-* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (2-2023/2024) - Real-time Cheating Detection System for Computer-based Examination. Co-supervised with [Prof. Kasiyah](https://cs.ui.ac.id/personnel/kasiyah/)
+* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (2-2023/2024) - Educational Process Mining from Learning Management Systems' Log. Co-supervised with [Prof. Kasiyah](https://cs.ui.ac.id/personnel/kasiyah/)
 
 > **Master Students**
 
 ***Current***
 
-* [Asaduddin As Zanky](https://www.linkedin.com/in/asaduddin-as-zanky/) (2-2023/2024) - Resource Management for Microservices using Kubernetes as Container Orchestration.
+* [Asaduddin As Zanky](https://www.linkedin.com/in/asaduddin-as-zanky/) (2-2023/2024) - Multi-tenant Resource Management for Kubernetes as Container Orchestration.
 
-* [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (2-2023/2024) - Function-as-a-Service in Kubernetes Clusters.
+* [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (2-2023/2024) - Resource Sharing for Cold Start Problems Prevention in Kubernetes Clusters.
 
 * [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (2-2023/2024) - Real-time Traffic Anomaly Detection with Networking Telemetry.
 
-* [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (2-2023/2024).
+* [Muhammad Arya Rumanga A. Baso](https://www.linkedin.com/in/aryarumanga/) (2-2023/2024) - Cloud Computing Adoption in Local Government in Sulawesi.
+
+* [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (2-2023/2024) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
+
+* [Tedy Tri Saputro](https://www.linkedin.com/in/tedy-tri-saputro/) (2-2023/2024) - Model Driven Cloud Native Architecture for Software-as-a-Service Platform.
 
 ***Past***
 

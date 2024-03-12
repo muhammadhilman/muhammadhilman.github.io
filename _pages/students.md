@@ -51,7 +51,7 @@ nav_order: 2
 
 * [Dixon Frederick](https://www.linkedin.com/in/dixon-frederick/), [Johannes Raka Triadana Nikaputra](https://www.linkedin.com/in/johanes-raka-triadana-nikaputra-988010136/), and [Reyza Abyan Gerrit Caloh](https://www.linkedin.com/in/reyza-caloh/) (2-2023/2024) - Internet Traffic Anomaly Detection with Network Telemetry.
 
-* [Immanuel](https://www.linkedin.com/in/immanuel-/), [Pradipta Davi Valendra](https://www.linkedin.com/in/pradipta-davi-valendra/), and [Tara Mazaya Lababan](https://www.linkedin.com/in/tara-mazaya-lababan/) (2-2023/2024) - Performance Analysis of GPUs on Openstack Nova, Zun, and Ironic Using Glmark2, Phoronix PyTorch, and Phoronix NAMD in the Cloud Computing Environment at the Faculty of Computer Science, Universitas Indonesia.
+* [Immanuel](https://www.linkedin.com/in/immanuel-/), [Pradipta Davi Valendra](https://www.linkedin.com/in/pradipta-davi-valendra/), and [Tara Mazaya Lababan](https://www.linkedin.com/in/tara-mazaya-lababan/) (2-2023/2024) - Performance Analysis of GPUs on Openstack Nova, Zun, and Ironic Using Glmark2, Phoronix PyTorch, and Phoronix NAMD in the Cloud Computing Environment at the Faculty of Computer Science, Universitas Indonesia. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
 
 * [Muhammad Tawfiqul Mawarid Nazaruddin Lopa](https://www.linkedin.com/in/taufiqul-mawarid-61392a279/) (2-2023/2024) - Prototype of Enhanced Congestion Control based on Deep Reinforcement Learning.
 

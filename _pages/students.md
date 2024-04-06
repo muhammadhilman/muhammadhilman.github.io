@@ -39,7 +39,7 @@ nav_order: 2
 
 ***Current***
 
-* [Adilah Putri](https://www.linkedin.com/in/adillah-putri-76368820a/) (2-2023-2024) - The Implementation of WebTransport in PeerToCP Application and Performance Comparison with WebSocket and WebRTC.
+* [Adillah Putri](https://www.linkedin.com/in/adillah-putri-76368820a/) (2-2023-2024) - The Implementation of WebTransport in PeerToCP Application and Performance Comparison with WebSocket and WebRTC.
 
 * [Adrian Hakim Utomo](https://www.linkedin.com/in/adrian-utomo/), [Denny Johannes Hasea](https://www.linkedin.com/in/denny-johannes-hasea-75000420a/), and [Muhammad Rifqi Aditya](https://www.linkedin.com/in/muhammad-rifqi-praditya-3254771b9/) (2-2023/2024) - Development of Swarm-based Chatbot for Customer Service. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
 

@@ -41,17 +41,11 @@ nav_order: 2
 
 * [Adillah Putri](https://www.linkedin.com/in/adillah-putri-76368820a/) (2-2023-2024) - The Implementation of WebTransport in PeerToCP Application and Performance Comparison with WebSocket and WebRTC.
 
-* [Adrian Hakim Utomo](https://www.linkedin.com/in/adrian-utomo/), [Denny Johannes Hasea](https://www.linkedin.com/in/denny-johannes-hasea-75000420a/), and [Muhammad Rifqi Aditya](https://www.linkedin.com/in/muhammad-rifqi-praditya-3254771b9/) (2-2023/2024) - Development of Swarm-based Chatbot for Customer Service. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
-
 * [Akbar Maliki Haqoni Jati](https://www.linkedin.com/in/akbar-maliki-haqoni-jati-7691601b9/) and [Haikal Rahman](https://www.linkedin.com/in/haikal-rahman-048427219/) (2-2023/2024) - Multi UAVs for Monitoring Disaster Area Based On Fogverse Framework.
 
 * [Bornyto Hamonangan](https://www.linkedin.com/in/bornyto-hamonangan/) (2-2023/2024) - Evaluation of Pod Limit Values in Kubernetes. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
 
-* [Brandon Ivander](https://www.linkedin.com/in/brandon-ivander/) and [Ikramullah](https://www.linkedin.com/in/ikramullah-0b17501aa/) (2-2023/2024) - Real-time Social Media Data Streaming Platform for Incident Detection with FogVerse Framework.
-
 * Faisal Hanif (2-2023/2024) - Deployment Analysis of Indonesian Sign System (SIBI) 3D Animation Subtitle Generator with Kubernetes. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
-
-* [Dixon Frederick](https://www.linkedin.com/in/dixon-frederick/), [Johannes Raka Triadana Nikaputra](https://www.linkedin.com/in/johanes-raka-triadana-nikaputra-988010136/), and [Reyza Abyan Gerrit Caloh](https://www.linkedin.com/in/reyza-caloh/) (2-2023/2024) - Internet Traffic Anomaly Detection with Network Telemetry.
 
 * [Immanuel](https://www.linkedin.com/in/immanuel-/), [Pradipta Davi Valendra](https://www.linkedin.com/in/pradipta-davi-valendra/), and [Tara Mazaya Lababan](https://www.linkedin.com/in/tara-mazaya-lababan/) (2-2023/2024) - Performance Analysis of GPUs on Openstack Nova, Zun, and Ironic Using Glmark2, Phoronix PyTorch, and Phoronix NAMD in the Cloud Computing Environment at the Faculty of Computer Science, Universitas Indonesia. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
 
@@ -66,6 +60,12 @@ nav_order: 2
 * [Vincent Suryakim](https://www.linkedin.com/in/vincentsuryakim/) (2-2023/2024) - Performance Comparison Between Namespace-based and Virtual Cluster Strategies in Kubernetes Multi-tenancy for e-Commerce Applications. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
 
 ***Past***
+
+* [Adrian Hakim Utomo](https://www.linkedin.com/in/adrian-utomo/), [Denny Johannes Hasea](https://www.linkedin.com/in/denny-johannes-hasea-75000420a/), and [Muhammad Rifqi Aditya](https://www.linkedin.com/in/muhammad-rifqi-praditya-3254771b9/) (2-2023/2024) - Swarm Based Chatbot Development for Customer Service Needs. [report](https://drive.google.com/file/d/1gy5tHmsQkBw1MbrFOU--yoRpdY59S6lH/view?usp=sharing), [slide](https://drive.google.com/file/d/1gxsmF9MY5QP6gKVpqVo8U2SX5r4LXYIf/view?usp=sharing), [repo](https://github.com/TA-Chetbot). Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
+
+* [Brandon Ivander](https://www.linkedin.com/in/brandon-ivander/) and [Ikramullah](https://www.linkedin.com/in/ikramullah-0b17501aa/) (2-2023/2024) - Auto Scaling, Dynamic Partition, and Multiprocessing Implementation on FogVerse Library: Study Case of Real-Time Social Media Data Processing for Emergency Event Detection. [report](https://drive.google.com/file/d/1gk4fhAm4f_9lODkjVKLXQ7h31SZAfb4B/view?usp=sharing), [slide](https://drive.google.com/file/d/1gqc1EC5ZUVIQgm3YbN_0M39Wdx5i0xIc/view?usp=sharing), [repo](https://github.com/betester/TA).
+
+* [Dixon Frederick](https://www.linkedin.com/in/dixon-frederick/), [Johannes Raka Triadana Nikaputra](https://www.linkedin.com/in/johanes-raka-triadana-nikaputra-988010136/), and [Reyza Abyan Gerrit Caloh](https://www.linkedin.com/in/reyza-caloh/) (2-2023/2024) - Comparative Analysis of Flow Size to Slowdown of INT, PINT, LINT, and DINT Protocol in High Precision Congestion Control using NS3 simulator. [report](https://drive.google.com/file/d/1geB4ScCLImPqPAelTJDqxkiyKyatd4wO/view?usp=sharing), [slide](https://drive.google.com/file/d/1ginhrVhww6kjHm65uAHMCXYaP56ZzTvO/view?usp=sharing), [repo](https://github.com/TA-HPCC/HPCC).
 
 * [Bisma Khomeini](https://www.linkedin.com/in/mbiskho/), [Dzikri Qalam Hatorangan](https://www.linkedin.com/in/dzikriqalam/), and [Muhammad Haqqi Al Farizi](https://www.linkedin.com/in/muhammad-haqqi-a-117a18190/) (1-2023/2024) - MLOps Design for Generative AI Models with Chaos Engineering-Based Testing. [report](https://drive.google.com/file/d/1VbDmj_UHcyhT2GEHeXNktr6AdFqJwTEg/view?usp=sharing), [slide](https://drive.google.com/file/d/1g1nZufm_SzIbWtgfd52iGscnVLgEpmuy/view?usp=sharing). Co-supervised with [Ari Wibisono](https://www.linkedin.com/in/ari-wibisono-84ba9828/).
 

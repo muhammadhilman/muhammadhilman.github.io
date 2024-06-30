@@ -25,9 +25,9 @@ nav_order: 2
 
 * [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (2-2023/2024) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
 
-* [Tedy Tri Saputro](https://www.linkedin.com/in/tedy-tri-saputro/) (2-2023/2024) - Model Driven Cloud Native Architecture for Software-as-a-Service Platform.
-
 ***Past***
+
+* [Tedy Tri Saputro](https://www.linkedin.com/in/tedy-tri-saputro/) (2-2023/2024) - Model Driven Cloud Native Architecture for Software-as-a-Service Platform. [report](https://drive.google.com/file/d/1hALzUA279aBqq2m7_J0I9mPwqepjuV76/view?usp=sharing), [slide](https://drive.google.com/file/d/1hBHOlIUdAClb0HSagKbQeLORY3uS_daJ/view?usp=sharing).
 
 * [Michael Susanto](https://www.linkedin.com/in/michaelsusanto81/) (1-2023/2024) - Critical Legacy System Migration Strategy from Monolithic to Microservices Architecture: A Case Study of PT XYZ. [report](https://drive.google.com/file/d/1zBOhXd2_qaZYrfEx6XdGy4zkpVjlnQXq/view?usp=sharing), [slide](https://drive.google.com/file/d/1kRXBXvvaw7bkJQIAUUs6qmQLkd8UeLv4/view?usp=sharing), [repo](https://github.com/KAGoblin).
 
@@ -49,8 +49,6 @@ nav_order: 2
 
 * [Immanuel](https://www.linkedin.com/in/immanuel-/), [Pradipta Davi Valendra](https://www.linkedin.com/in/pradipta-davi-valendra/), and [Tara Mazaya Lababan](https://www.linkedin.com/in/tara-mazaya-lababan/) (2-2023/2024) - Performance Analysis of GPUs on Openstack Nova, Zun, and Ironic Using Glmark2, Phoronix PyTorch, and Phoronix NAMD in the Cloud Computing Environment at the Faculty of Computer Science, Universitas Indonesia. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
 
-* [Muhammad Tawfiqul Mawarid Nazaruddin Lopa](https://www.linkedin.com/in/taufiqul-mawarid-61392a279/) (2-2023/2024) - Prototype of Enhanced Congestion Control based on Deep Reinforcement Learning.
-
 * [Razita Afrina Nuriyan](https://www.linkedin.com/in/razita-afrina-nuriyan/) (2-2023/2024) - Improvement of Redundancy Values Due to the Use of Kokkos in LAMMPS (Large-Scale Atomic/Molecular Massively Parallel Simulator) Based on Analysis Results Using GVProf.
 
 * [Rahadian Panji Ramadhan](www.linkedin.com/in/rahadian-panji/) and Steven Novaryo (2-2023/2024) - Versatile ChatBot Swarm with Python Selenium.
@@ -66,6 +64,8 @@ nav_order: 2
 * [Brandon Ivander](https://www.linkedin.com/in/brandon-ivander/) and [Ikramullah](https://www.linkedin.com/in/ikramullah-0b17501aa/) (2-2023/2024) - Auto Scaling, Dynamic Partition, and Multiprocessing Implementation on FogVerse Library: Study Case of Real-Time Social Media Data Processing for Emergency Event Detection. [report](https://drive.google.com/file/d/1gk4fhAm4f_9lODkjVKLXQ7h31SZAfb4B/view?usp=sharing), [slide](https://drive.google.com/file/d/1gqc1EC5ZUVIQgm3YbN_0M39Wdx5i0xIc/view?usp=sharing), [repo](https://github.com/betester/TA).
 
 * [Dixon Frederick](https://www.linkedin.com/in/dixon-frederick/), [Johannes Raka Triadana Nikaputra](https://www.linkedin.com/in/johanes-raka-triadana-nikaputra-988010136/), and [Reyza Abyan Gerrit Caloh](https://www.linkedin.com/in/reyza-caloh/) (2-2023/2024) - Comparative Analysis of Flow Size to Slowdown of INT, PINT, LINT, and DINT Protocol in High Precision Congestion Control using NS3 simulator. [report](https://drive.google.com/file/d/1geB4ScCLImPqPAelTJDqxkiyKyatd4wO/view?usp=sharing), [slide](https://drive.google.com/file/d/1ginhrVhww6kjHm65uAHMCXYaP56ZzTvO/view?usp=sharing), [repo](https://github.com/TA-HPCC/HPCC).
+
+* [Muhammad Tawfiqul Mawarid Nazaruddin Lopa](https://www.linkedin.com/in/taufiqul-mawarid-61392a279/) (2-2023/2024) - Analysis of Practicality Improvement of Congestion Control based on Deep Reinforcement Learning in Video Streaming Networks Scenario. [report](https://drive.google.com/file/d/1h6vKjcuvoDdsWb7XApxpfe7AdexcBOvt/view?usp=sharing), [slide](https://drive.google.com/file/d/1h3NKlsVoeQaBuuNpo57PliNrDhTmV7Qm/view?usp=sharing), [repo](https://github.com/taufiqulmawarid/ns3-drl-cc).
 
 * [Bisma Khomeini](https://www.linkedin.com/in/mbiskho/), [Dzikri Qalam Hatorangan](https://www.linkedin.com/in/dzikriqalam/), and [Muhammad Haqqi Al Farizi](https://www.linkedin.com/in/muhammad-haqqi-a-117a18190/) (1-2023/2024) - MLOps Design for Generative AI Models with Chaos Engineering-Based Testing. [report](https://drive.google.com/file/d/1VbDmj_UHcyhT2GEHeXNktr6AdFqJwTEg/view?usp=sharing), [slide](https://drive.google.com/file/d/1g1nZufm_SzIbWtgfd52iGscnVLgEpmuy/view?usp=sharing). Co-supervised with [Ari Wibisono](https://www.linkedin.com/in/ari-wibisono-84ba9828/).
 

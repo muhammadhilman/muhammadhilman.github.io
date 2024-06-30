@@ -27,7 +27,7 @@ nav_order: 2
 
 ***Past***
 
-* [Tedy Tri Saputro](https://www.linkedin.com/in/tedy-tri-saputro/) (2-2023/2024) - Model Driven Cloud Native Architecture for Software-as-a-Service Platform. [report](https://drive.google.com/file/d/1hALzUA279aBqq2m7_J0I9mPwqepjuV76/view?usp=sharing), [slide](https://drive.google.com/file/d/1hBHOlIUdAClb0HSagKbQeLORY3uS_daJ/view?usp=sharing).
+* [Tedy Tri Saputro](https://www.linkedin.com/in/tedy-tri-saputro/) (2-2023/2024) - Transformation of Accounting System Application based on Cloud-native Architecture using a Model-Driven Approach: A Case Study of PT XYZ. [report](https://drive.google.com/file/d/1hALzUA279aBqq2m7_J0I9mPwqepjuV76/view?usp=sharing), [slide](https://drive.google.com/file/d/1hBHOlIUdAClb0HSagKbQeLORY3uS_daJ/view?usp=sharing).
 
 * [Michael Susanto](https://www.linkedin.com/in/michaelsusanto81/) (1-2023/2024) - Critical Legacy System Migration Strategy from Monolithic to Microservices Architecture: A Case Study of PT XYZ. [report](https://drive.google.com/file/d/1zBOhXd2_qaZYrfEx6XdGy4zkpVjlnQXq/view?usp=sharing), [slide](https://drive.google.com/file/d/1kRXBXvvaw7bkJQIAUUs6qmQLkd8UeLv4/view?usp=sharing), [repo](https://github.com/KAGoblin).
 

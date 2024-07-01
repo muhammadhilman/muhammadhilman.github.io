@@ -43,8 +43,6 @@ nav_order: 2
 
 * [Akbar Maliki Haqoni Jati](https://www.linkedin.com/in/akbar-maliki-haqoni-jati-7691601b9/) and [Haikal Rahman](https://www.linkedin.com/in/haikal-rahman-048427219/) (2-2023/2024) - Multi UAVs for Monitoring Disaster Area Based On Fogverse Framework.
 
-* [Bornyto Hamonangan](https://www.linkedin.com/in/bornyto-hamonangan/) (2-2023/2024) - Evaluation of Pod Limit Values in Kubernetes. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
-
 * Faisal Hanif (2-2023/2024) - Deployment Analysis of Indonesian Sign System (SIBI) 3D Animation Subtitle Generator with Kubernetes. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
 
 * [Immanuel](https://www.linkedin.com/in/immanuel-/), [Pradipta Davi Valendra](https://www.linkedin.com/in/pradipta-davi-valendra/), and [Tara Mazaya Lababan](https://www.linkedin.com/in/tara-mazaya-lababan/) (2-2023/2024) - Performance Analysis of GPUs on Openstack Nova, Zun, and Ironic Using Glmark2, Phoronix PyTorch, and Phoronix NAMD in the Cloud Computing Environment at the Faculty of Computer Science, Universitas Indonesia. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
@@ -58,6 +56,8 @@ nav_order: 2
 ***Past***
 
 * [Adrian Hakim Utomo](https://www.linkedin.com/in/adrian-utomo/), [Denny Johannes Hasea](https://www.linkedin.com/in/denny-johannes-hasea-75000420a/), and [Muhammad Rifqi Aditya](https://www.linkedin.com/in/muhammad-rifqi-praditya-3254771b9/) (2-2023/2024) - Swarm Based Chatbot Development for Customer Service Needs. [report](https://drive.google.com/file/d/1gy5tHmsQkBw1MbrFOU--yoRpdY59S6lH/view?usp=sharing), [slide](https://drive.google.com/file/d/1gxsmF9MY5QP6gKVpqVo8U2SX5r4LXYIf/view?usp=sharing), [repo](https://github.com/TA-Chetbot). Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
+
+* [Bornyto Hamonangan](https://www.linkedin.com/in/bornyto-hamonangan/) (2-2023/2024) - Evaluation of Shared CPU Resources in Managed Kubernetes Service. [report](https://drive.google.com/file/d/1hV9Rd4cA2hZtpe7umIZHEo5XAb34J4V_/view?usp=sharing), [slide](https://drive.google.com/file/d/1hbkbQP8h8yv5Wp2NElsIb2AFA3CG-931/view?usp=sharing), [repo](https://github.com/hamonangann/thesis). Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
 
 * [Brandon Ivander](https://www.linkedin.com/in/brandon-ivander/) and [Ikramullah](https://www.linkedin.com/in/ikramullah-0b17501aa/) (2-2023/2024) - Auto Scaling, Dynamic Partition, and Multiprocessing Implementation on FogVerse Library: Study Case of Real-Time Social Media Data Processing for Emergency Event Detection. [report](https://drive.google.com/file/d/1gk4fhAm4f_9lODkjVKLXQ7h31SZAfb4B/view?usp=sharing), [slide](https://drive.google.com/file/d/1gqc1EC5ZUVIQgm3YbN_0M39Wdx5i0xIc/view?usp=sharing), [repo](https://github.com/betester/TA).
 

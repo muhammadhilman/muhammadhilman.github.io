@@ -55,8 +55,6 @@ nav_order: 2
 
 * [Yusuf Fakhri Aldrian](https://www.linkedin.com/in/ysfakhria/) (2-2023/2024) - ASR Evaluation for Generating Sentences from Video. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
 
-* [Vincent Suryakim](https://www.linkedin.com/in/vincentsuryakim/) (2-2023/2024) - Performance Comparison Between Namespace-based and Virtual Cluster Strategies in Kubernetes Multi-tenancy for e-Commerce Applications. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
-
 ***Past***
 
 * [Adrian Hakim Utomo](https://www.linkedin.com/in/adrian-utomo/), [Denny Johannes Hasea](https://www.linkedin.com/in/denny-johannes-hasea-75000420a/), and [Muhammad Rifqi Aditya](https://www.linkedin.com/in/muhammad-rifqi-praditya-3254771b9/) (2-2023/2024) - Swarm Based Chatbot Development for Customer Service Needs. [report](https://drive.google.com/file/d/1gy5tHmsQkBw1MbrFOU--yoRpdY59S6lH/view?usp=sharing), [slide](https://drive.google.com/file/d/1gxsmF9MY5QP6gKVpqVo8U2SX5r4LXYIf/view?usp=sharing), [repo](https://github.com/TA-Chetbot). Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
@@ -66,6 +64,8 @@ nav_order: 2
 * [Dixon Frederick](https://www.linkedin.com/in/dixon-frederick/), [Johannes Raka Triadana Nikaputra](https://www.linkedin.com/in/johanes-raka-triadana-nikaputra-988010136/), and [Reyza Abyan Gerrit Caloh](https://www.linkedin.com/in/reyza-caloh/) (2-2023/2024) - Comparative Analysis of Flow Size to Slowdown of INT, PINT, LINT, and DINT Protocol in High Precision Congestion Control using NS3 simulator. [report](https://drive.google.com/file/d/1geB4ScCLImPqPAelTJDqxkiyKyatd4wO/view?usp=sharing), [slide](https://drive.google.com/file/d/1ginhrVhww6kjHm65uAHMCXYaP56ZzTvO/view?usp=sharing), [repo](https://github.com/TA-HPCC/HPCC).
 
 * [Muhammad Tawfiqul Mawarid Nazaruddin Lopa](https://www.linkedin.com/in/taufiqul-mawarid-61392a279/) (2-2023/2024) - Analysis of Practicality Improvement of Congestion Control based on Deep Reinforcement Learning in Video Streaming Networks Scenario. [report](https://drive.google.com/file/d/1h6vKjcuvoDdsWb7XApxpfe7AdexcBOvt/view?usp=sharing), [slide](https://drive.google.com/file/d/1h3NKlsVoeQaBuuNpo57PliNrDhTmV7Qm/view?usp=sharing), [repo](https://github.com/taufiqulmawarid/ns3-drl-cc).
+
+* [Vincent Suryakim](https://www.linkedin.com/in/vincentsuryakim/) (2-2023/2024) - Performance Comparison Between Namespace-based and Virtual Cluster Strategies in Kubernetes Multi-tenancy for e-Commerce Applications. [report](https://drive.google.com/file/d/1hUuOUTljeDI4YeteaCaKtSvXoJfees98/view?usp=sharing), [slide](https://drive.google.com/file/d/1hO1_ZB_AuLv1tia3TI274RkmthQOuHYS/view?usp=sharing), [repo](https://github.com/vincentsuryakim/skripsi). Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
 
 * [Bisma Khomeini](https://www.linkedin.com/in/mbiskho/), [Dzikri Qalam Hatorangan](https://www.linkedin.com/in/dzikriqalam/), and [Muhammad Haqqi Al Farizi](https://www.linkedin.com/in/muhammad-haqqi-a-117a18190/) (1-2023/2024) - MLOps Design for Generative AI Models with Chaos Engineering-Based Testing. [report](https://drive.google.com/file/d/1VbDmj_UHcyhT2GEHeXNktr6AdFqJwTEg/view?usp=sharing), [slide](https://drive.google.com/file/d/1g1nZufm_SzIbWtgfd52iGscnVLgEpmuy/view?usp=sharing). Co-supervised with [Ari Wibisono](https://www.linkedin.com/in/ari-wibisono-84ba9828/).
 

@@ -41,8 +41,6 @@ nav_order: 2
 
 * [Adillah Putri](https://www.linkedin.com/in/adillah-putri-76368820a/) (2-2023-2024) - The Implementation of WebTransport in PeerToCP Application and Performance Comparison with WebSocket and WebRTC.
 
-* [Akbar Maliki Haqoni Jati](https://www.linkedin.com/in/akbar-maliki-haqoni-jati-7691601b9/) and [Haikal Rahman](https://www.linkedin.com/in/haikal-rahman-048427219/) (2-2023/2024) - Multi UAVs for Monitoring Disaster Area Based On Fogverse Framework.
-
 * Faisal Hanif (2-2023/2024) - Deployment Analysis of Indonesian Sign System (SIBI) 3D Animation Subtitle Generator with Kubernetes. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
 
 * [Immanuel](https://www.linkedin.com/in/immanuel-/), [Pradipta Davi Valendra](https://www.linkedin.com/in/pradipta-davi-valendra/), and [Tara Mazaya Lababan](https://www.linkedin.com/in/tara-mazaya-lababan/) (2-2023/2024) - Performance Analysis of GPUs on Openstack Nova, Zun, and Ironic Using Glmark2, Phoronix PyTorch, and Phoronix NAMD in the Cloud Computing Environment at the Faculty of Computer Science, Universitas Indonesia. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
@@ -51,11 +49,11 @@ nav_order: 2
 
 * [Rahadian Panji Ramadhan](www.linkedin.com/in/rahadian-panji/) and Steven Novaryo (2-2023/2024) - Versatile ChatBot Swarm with Python Selenium.
 
-* [Yusuf Fakhri Aldrian](https://www.linkedin.com/in/ysfakhria/) (2-2023/2024) - ASR Evaluation for Generating Sentences from Video. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
-
 ***Past***
 
 * [Adrian Hakim Utomo](https://www.linkedin.com/in/adrian-utomo/), [Denny Johannes Hasea](https://www.linkedin.com/in/denny-johannes-hasea-75000420a/), and [Muhammad Rifqi Aditya](https://www.linkedin.com/in/muhammad-rifqi-praditya-3254771b9/) (2-2023/2024) - Swarm Based Chatbot Development for Customer Service Needs. [report](https://drive.google.com/file/d/1gy5tHmsQkBw1MbrFOU--yoRpdY59S6lH/view?usp=sharing), [slide](https://drive.google.com/file/d/1gxsmF9MY5QP6gKVpqVo8U2SX5r4LXYIf/view?usp=sharing), [repo](https://github.com/TA-Chetbot). Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
+
+* [Akbar Maliki Haqoni Jati](https://www.linkedin.com/in/akbar-maliki-haqoni-jati-7691601b9/) and [Haikal Rahman](https://www.linkedin.com/in/haikal-rahman-048427219/) (2-2023/2024) - Multi UAV Data Streaming for Disaster Area Monitoring Using FogVerse. [report](https://drive.google.com/file/d/1hkgzSb_TWKMQXnM334BvA67qRXth3YR9/view?usp=sharing), [slide](https://drive.google.com/file/d/1hohYjd9WgpIAOBnkV1-NRPbRbtUfmtS5/view?usp=sharing), [repo](https://github.com/Multi-UAV-Fogverse/).
 
 * [Bornyto Hamonangan](https://www.linkedin.com/in/bornyto-hamonangan/) (2-2023/2024) - Evaluation of Shared CPU Resources in Managed Kubernetes Service. [report](https://drive.google.com/file/d/1hV9Rd4cA2hZtpe7umIZHEo5XAb34J4V_/view?usp=sharing), [slide](https://drive.google.com/file/d/1hbkbQP8h8yv5Wp2NElsIb2AFA3CG-931/view?usp=sharing), [repo](https://github.com/hamonangann/thesis). Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
 
@@ -66,6 +64,8 @@ nav_order: 2
 * [Muhammad Tawfiqul Mawarid Nazaruddin Lopa](https://www.linkedin.com/in/taufiqul-mawarid-61392a279/) (2-2023/2024) - Analysis of Practicality Improvement of Congestion Control based on Deep Reinforcement Learning in Video Streaming Networks Scenario. [report](https://drive.google.com/file/d/1h6vKjcuvoDdsWb7XApxpfe7AdexcBOvt/view?usp=sharing), [slide](https://drive.google.com/file/d/1h3NKlsVoeQaBuuNpo57PliNrDhTmV7Qm/view?usp=sharing), [repo](https://github.com/taufiqulmawarid/ns3-drl-cc).
 
 * [Vincent Suryakim](https://www.linkedin.com/in/vincentsuryakim/) (2-2023/2024) - Performance Comparison Between Namespace-based and Virtual Cluster Strategies in Kubernetes Multi-tenancy for e-Commerce Applications. [report](https://drive.google.com/file/d/1hUuOUTljeDI4YeteaCaKtSvXoJfees98/view?usp=sharing), [slide](https://drive.google.com/file/d/1hO1_ZB_AuLv1tia3TI274RkmthQOuHYS/view?usp=sharing), [repo](https://github.com/vincentsuryakim/skripsi). Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
+
+* [Yusuf Fakhri Aldrian](https://www.linkedin.com/in/ysfakhria/) (2-2023/2024) - Development of an Animated *Sistem Isyarat Bahasa Indonesia* (SIBI) Subtitle Formation Plug-In for Educational Videos. [report](https://drive.google.com/file/d/1hq_Xvs7rAfnym4Eulcm-S31uUVg4Qi_q/view?usp=sharing), [slide](https://drive.google.com/file/d/1htWBKYHL9pWNyJNJqwao0vRlDRYbQeQl/view?usp=sharing), [repo1](https://github.com/aldariaski/sibi_moodle). Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao), [repo2](https://github.com/aldariaski/sibi_ttg).
 
 * [Bisma Khomeini](https://www.linkedin.com/in/mbiskho/), [Dzikri Qalam Hatorangan](https://www.linkedin.com/in/dzikriqalam/), and [Muhammad Haqqi Al Farizi](https://www.linkedin.com/in/muhammad-haqqi-a-117a18190/) (1-2023/2024) - MLOps Design for Generative AI Models with Chaos Engineering-Based Testing. [report](https://drive.google.com/file/d/1VbDmj_UHcyhT2GEHeXNktr6AdFqJwTEg/view?usp=sharing), [slide](https://drive.google.com/file/d/1g1nZufm_SzIbWtgfd52iGscnVLgEpmuy/view?usp=sharing). Co-supervised with [Ari Wibisono](https://www.linkedin.com/in/ari-wibisono-84ba9828/).
 

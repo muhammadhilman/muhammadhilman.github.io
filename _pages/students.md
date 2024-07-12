@@ -15,15 +15,15 @@ nav_order: 2
 
 ***Current***
 
-* [Asaduddin As Zanky](https://www.linkedin.com/in/asaduddin-as-zanky/) (2-2023/2024) - Multi-tenant Resource Management for Kubernetes as Container Orchestration.
+* [Asaduddin As Zanky](https://www.linkedin.com/in/asaduddin-as-zanky/) (1-2024/2025) - Multi-tenant Resource Management for Kubernetes as Container Orchestration.
 
-* [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (2-2023/2024) - Resource Sharing for Cold Start Problems Prevention in Kubernetes Clusters.
+* [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (1-2024/2025) - Resource Sharing for Cold Start Problems Prevention in Kubernetes Clusters.
 
-* [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (2-2023/2024) - Real-time Traffic Anomaly Detection with Networking Telemetry.
+* [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (1-2024/2025) - Real-time Traffic Anomaly Detection with Networking Telemetry.
 
-* [Muhammad Arya Rumanga A. Baso](https://www.linkedin.com/in/aryarumanga/) (2-2023/2024) - Cloud Computing Adoption in Local Government in Sulawesi.
+* [Muhammad Arya Rumanga A. Baso](https://www.linkedin.com/in/aryarumanga/) (1-2024/2025) - Cloud Computing Adoption in Local Government in Sulawesi.
 
-* [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (2-2023/2024) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
+* [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (1-2024/2025) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
 
 ***Past***
 
@@ -39,15 +39,11 @@ nav_order: 2
 
 ***Current***
 
-* [Adillah Putri](https://www.linkedin.com/in/adillah-putri-76368820a/) (2-2023-2024) - The Implementation of WebTransport in PeerToCP Application and Performance Comparison with WebSocket and WebRTC.
+* [Adillah Putri](https://www.linkedin.com/in/adillah-putri-76368820a/) (1-2024-2025) - The Implementation of WebTransport in PeerToCP Application and Performance Comparison with WebSocket and WebRTC.
 
-* Faisal Hanif (2-2023/2024) - Deployment Analysis of Indonesian Sign System (SIBI) 3D Animation Subtitle Generator with Kubernetes. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
+* Faisal Hanif (1-2024/2025) - Deployment Analysis of Indonesian Sign System (SIBI) 3D Animation Subtitle Generator with Kubernetes. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
 
-* [Immanuel](https://www.linkedin.com/in/immanuel-/), [Pradipta Davi Valendra](https://www.linkedin.com/in/pradipta-davi-valendra/), and [Tara Mazaya Lababan](https://www.linkedin.com/in/tara-mazaya-lababan/) (2-2023/2024) - Performance Analysis of GPUs on Openstack Nova, Zun, and Ironic Using Glmark2, Phoronix PyTorch, and Phoronix NAMD in the Cloud Computing Environment at the Faculty of Computer Science, Universitas Indonesia. Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
-
-* [Razita Afrina Nuriyan](https://www.linkedin.com/in/razita-afrina-nuriyan/) (2-2023/2024) - Improvement of Redundancy Values Due to the Use of Kokkos in LAMMPS (Large-Scale Atomic/Molecular Massively Parallel Simulator) Based on Analysis Results Using GVProf.
-
-* [Rahadian Panji Ramadhan](www.linkedin.com/in/rahadian-panji/) and Steven Novaryo (2-2023/2024) - Versatile ChatBot Swarm with Python Selenium.
+* [Razita Afrina Nuriyan](https://www.linkedin.com/in/razita-afrina-nuriyan/) (1-2024/2025) - Improvement of Redundancy Values Due to the Use of Kokkos in LAMMPS (Large-Scale Atomic/Molecular Massively Parallel Simulator) Based on Analysis Results Using GVProf.
 
 ***Past***
 
@@ -61,7 +57,11 @@ nav_order: 2
 
 * [Dixon Frederick](https://www.linkedin.com/in/dixon-frederick/), [Johannes Raka Triadana Nikaputra](https://www.linkedin.com/in/johanes-raka-triadana-nikaputra-988010136/), and [Reyza Abyan Gerrit Caloh](https://www.linkedin.com/in/reyza-caloh/) (2-2023/2024) - Comparative Analysis of Flow Size to Slowdown of INT, PINT, LINT, and DINT Protocol in High Precision Congestion Control using NS3 simulator. [report](https://drive.google.com/file/d/1geB4ScCLImPqPAelTJDqxkiyKyatd4wO/view?usp=sharing), [slide](https://drive.google.com/file/d/1ginhrVhww6kjHm65uAHMCXYaP56ZzTvO/view?usp=sharing), [repo](https://github.com/TA-HPCC/HPCC).
 
+* [Immanuel](https://www.linkedin.com/in/immanuel-/), [Pradipta Davi Valendra](https://www.linkedin.com/in/pradipta-davi-valendra/), and [Tara Mazaya Lababan](https://www.linkedin.com/in/tara-mazaya-lababan/) (2-2023/2024) - GPU Performance Analysis on OpenStack Nova, Zun, and Ironic Using Glmark2, Phoronix Pytorch, and Phoronix NAMD on the Fasilkom UI Cloud Computing Environment. [report](https://drive.google.com/file/d/1iIQDFjepPutekSWB1dgDekn4T9kEc3KB/view?usp=sharing), [slide](https://drive.google.com/file/d/1iLA86ysqLaSzL0werzr8SZOF9GktYoUf/view?usp=sharing), [repo](https://github.com/Tugas-Akhir-OpenStack-GPU-Benchmark). Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
+
 * [Muhammad Tawfiqul Mawarid Nazaruddin Lopa](https://www.linkedin.com/in/taufiqul-mawarid-61392a279/) (2-2023/2024) - Analysis of Practicality Improvement of Congestion Control based on Deep Reinforcement Learning in Video Streaming Networks Scenario. [report](https://drive.google.com/file/d/1h6vKjcuvoDdsWb7XApxpfe7AdexcBOvt/view?usp=sharing), [slide](https://drive.google.com/file/d/1h3NKlsVoeQaBuuNpo57PliNrDhTmV7Qm/view?usp=sharing), [repo](https://github.com/taufiqulmawarid/ns3-drl-cc).
+
+* [Rahadian Panji Ramadhan](www.linkedin.com/in/rahadian-panji/) and Steven Novaryo (2-2023/2024) - Browser Army++: Distributed Test Execution System with Selenium Test Development and Management Interface. [report](), [slide](), [repo1](https://gitlab.com/steven.novaryo/selenium-ide-modified), [repo2](https://gitlab.com/RahadianPanji/browser-army-modified).
 
 * [Vincent Suryakim](https://www.linkedin.com/in/vincentsuryakim/) (2-2023/2024) - Performance Comparison Between Namespace-based and Virtual Cluster Strategies in Kubernetes Multi-tenancy for e-Commerce Applications. [report](https://drive.google.com/file/d/1hUuOUTljeDI4YeteaCaKtSvXoJfees98/view?usp=sharing), [slide](https://drive.google.com/file/d/1hO1_ZB_AuLv1tia3TI274RkmthQOuHYS/view?usp=sharing), [repo](https://github.com/vincentsuryakim/skripsi). Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
 

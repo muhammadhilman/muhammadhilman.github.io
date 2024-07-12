@@ -19,14 +19,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a computer systems enthusiast interested in ***networks, clouds, and distributed systems***. I got a PhD in workflow systems, cloud scheduling, and resource management from Melbourne CLOUDS Laboratory, The University of Melbourne.
+As a computer systems enthusiast with a keen interest in ***networks, clouds, and distributed systems***, I got a PhD in workflow systems, cloud scheduling, and resource management from Melbourne CLOUDS Laboratory, The University of Melbourne.
 
-Currently, I am working with students at Universitas Indonesia on a real-time distributed system based on various approaches, including publish/subscribe technique, fog computing architecture, real-time communication, and future-generation network protocols.
+At present, I am engaged in three flagship projects with students at Universitas Indonesia, and we are constantly pushing the boundaries of what is possible in our field.
 
-Nevertheless, I am open to interdisciplinary computing research that is closely related to my area of expertise (but not limited to):
+* **Real-time Streaming Infrastructures** includes research on distributed event streaming platforms, publish/subscribe techniques, and low-latency transport protocols with a focus on Kafka.
+* **GPU-based HPC Infrastructures** includes research on CUDA and ROCm code portability and the HPC infrastructure management platform.
+* **Container Orchestration** includes research on resource management of Kubernetes clusters and serverless platforms. 
+
+Moreover, I am eager to explore interdisciplinary computing research that aligns with my expertise, particularly in the areas of:
 
 * ***Cybersecurity and Cryptography***: zero trust architecture, smart contracts, and blockchain technology.
-* ***Intelligent Systems***: real-time analytics, online incremental machine learning, IoT, and smart systems.
+* ***Intelligent Systems***: real-time analytics, online incremental machine learning and IoT.
 * ***Software Engineering***: automated cloud deployment, cloud service discovery, microservices orchestration, and service mesh.
 
 I am available to supervise prospective Master's and PhD students at the Faculty of Computer Science, Universitas Indonesia.

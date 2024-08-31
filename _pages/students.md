@@ -9,7 +9,7 @@ nav_order: 2
 
 > **PhD Student**
 
-* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (2-2023/2024) - Educational Process Mining from Learning Management Systems' Log. Co-supervised with [Prof. Kasiyah](https://cs.ui.ac.id/personnel/kasiyah/)
+* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (1-2024/2025) - Educational Process Mining from Learning Management Systems' Log. Co-supervised with [Prof. Kasiyah](https://cs.ui.ac.id/personnel/kasiyah/)
 
 > **Master Students**
 
@@ -42,6 +42,10 @@ nav_order: 2
 * [Adillah Putri](https://www.linkedin.com/in/adillah-putri-76368820a/) (1-2024-2025) - The Implementation of WebTransport in PeerToCP Application and Performance Comparison with WebSocket and WebRTC.
 
 * Faisal Hanif (1-2024/2025) - Deployment Analysis of Indonesian Sign System (SIBI) 3D Animation Subtitle Generator with Kubernetes. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
+
+* [Givarrel Veivel Pattiwael](https://www.linkedin.com/in/veivel/), [Nayyara Airlangga Raharjo](https://www.linkedin.com/in/nayyara-airlangga-raharjo/), [Valerian Salim](https://www.linkedin.com/in/valeelim/) (1-2024/2025) - SYCL vs CUDA vs HIP: Performance Evaluation and Portability GPU Programming Models for NVIDIA and AMD.
+
+* [Loanda Gunawan](https://www.linkedin.com/in/loanda-gunawan-859a481b7/) (1-2024/2025) - Multi-tenant Kubernetes Cluster.
 
 * [Razita Afrina Nuriyan](https://www.linkedin.com/in/razita-afrina-nuriyan/) (1-2024/2025) - Improvement of Redundancy Values Due to the Use of Kokkos in LAMMPS (Large-Scale Atomic/Molecular Massively Parallel Simulator) Based on Analysis Results Using GVProf.
 

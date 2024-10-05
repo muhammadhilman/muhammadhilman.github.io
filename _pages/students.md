@@ -7,10 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-> **PhD Student**
-
-* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (1-2024/2025) - Educational Process Mining from Learning Management Systems' Log. Co-supervised with [Prof. Kasiyah](https://cs.ui.ac.id/personnel/kasiyah/)
-
 > **Master Students**
 
 ***Current***
@@ -20,6 +16,8 @@ nav_order: 2
 * [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (1-2024/2025) - Resource Sharing for Cold Start Problems Prevention in Kubernetes Clusters.
 
 * [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (1-2024/2025) - Real-time Traffic Anomaly Detection with Networking Telemetry.
+
+* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (1-2024/2025) - Educational Process Mining from Learning Management Systems' Log. Co-supervised with [Prof. Kasiyah](https://cs.ui.ac.id/personnel/kasiyah/)
 
 * [Muhammad Arya Rumanga A. Baso](https://www.linkedin.com/in/aryarumanga/) (1-2024/2025) - Cloud Computing Adoption in Local Government in Sulawesi.
 
@@ -41,9 +39,9 @@ nav_order: 2
 
 * [Adillah Putri](https://www.linkedin.com/in/adillah-putri-76368820a/) (1-2024-2025) - The Implementation of WebTransport in PeerToCP Application and Performance Comparison with WebSocket and WebRTC.
 
-* Faisal Hanif (1-2024/2025) - Deployment Analysis of Indonesian Sign System (SIBI) 3D Animation Subtitle Generator with Kubernetes. Co-supervised with [Erdefi Rakun](https://scholar.google.com/citations?user=z0E_d9cAAAAJ&hl=en&oi=ao).
-
 * [Givarrel Veivel Pattiwael](https://www.linkedin.com/in/veivel/), [Nayyara Airlangga Raharjo](https://www.linkedin.com/in/nayyara-airlangga-raharjo/), [Valerian Salim](https://www.linkedin.com/in/valeelim/) (1-2024/2025) - SYCL vs CUDA vs HIP: Performance Evaluation and Portability GPU Programming Models for NVIDIA and AMD.
+
+* [Linus Wicaksana](https://www.linkedin.com/in/linus-w-428360194/?locale=in_ID) (1-2024/2025) - Cockroach DB Performance Evaluation.
 
 * [Loanda Gunawan](https://www.linkedin.com/in/loanda-gunawan-859a481b7/) (1-2024/2025) - Multi-tenant Kubernetes Cluster.
 

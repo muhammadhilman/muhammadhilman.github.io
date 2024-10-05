@@ -9,15 +9,15 @@ nav_order: 1
 
 > **Universitas Indonesia**
 
+* **Computer Networks** - *CSCM603154* - (1-2020/2021, 2-2020/2021, 1-2021/2022, 1-2022/2023, 2-2022/2023, 1-2023/2024, 1-2024/2025)
+
+* **Communication & Data Networks** - *CSIM603154* - (1-2021/2022, 1-2022/2023, 1-2023/2024, 1-2024/2025)
+
+* **Information Security - Graduate Course** - *CSIE802081* - (2-2023/2024, 1-2024/2025)
+
 * **Distributed Systems** - *CSCE604254* - (2-2022/2023, 2-2023/2024)
 
-* **Information Security - Graduate Course** - *CSIE802081* - (2-2023/2024)
-
 * **Applied Cryptography - Graduate Course** - *CSIE802083* - (2-2023/2024)
-
-* **Computer Networks** - *CSCM603154* - (1-2020/2021, 2-2020/2021, 1-2021/2022, 1-2022/2023, 2-2022/2023, 1-2023/2024)
-
-* **Communication & Data Networks** - *CSIM603154* - (1-2021/2022, 1-2022/2023, 1-2023/2024)
 
 * **Foundation of Programming 2 (Java OOP)** - *CSGE601021* - (1-2020/2021, 2-2020/2021, 2-2021/2022, 2-2022/2023)
 
@@ -41,7 +41,7 @@ nav_order: 1
 
 > **Centre for Computer Science (Pusilkom UI)**
 
-* **AI and Data Analytics for Business** - *BPJS Ketenagakerjaan RI*
+* **AI and Data Analytics for Business / KNIME Big Data Processing and Analytics** - *BPJS Ketenagakerjaan RI*
 
 * **Data Analytics** - *Direktorat Jenderal Perbendaharaan, Kementerian Keuangan RI*
 

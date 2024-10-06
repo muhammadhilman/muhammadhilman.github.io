@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 As a computer systems enthusiast with a keen interest in ***networks, clouds, and distributed systems***, I got a PhD in workflow systems, cloud scheduling, and resource management from Melbourne CLOUDS Laboratory, The University of Melbourne.
 
-At present, I am engaged in three flagship projects with students at Universitas Indonesia, and we are constantly pushing the boundaries of what is possible in our field.
+At present, I am engaged in three flagship projects at Universitas Indonesia, and we are constantly pushing the boundaries of what is possible in our field.
 
 * **Real-time Streaming Infrastructures** includes research on distributed event streaming platforms, publish/subscribe techniques, and low-latency transport protocols with a focus on Kafka.
 * **GPU-based HPC Infrastructures** includes research on CUDA and ROCm code portability and the HPC infrastructure management platform.

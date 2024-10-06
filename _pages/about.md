@@ -29,7 +29,7 @@ At present, I am engaged in three flagship projects at Universitas Indonesia, an
 
 Moreover, I am eager to explore interdisciplinary computing research that aligns with my expertise, particularly in the areas of:
 
-* **Cybersecurity and Cryptography**: zero trust architecture, smart contracts, and blockchain technology.
+* **Cybersecurity**: zero trust architecture, smart contracts, and blockchain technology.
 * **Intelligent Systems**: real-time analytics, online incremental machine learning and IoT.
 * **Software Engineering**: automated cloud deployment, cloud service discovery, microservices orchestration, and service mesh.
 

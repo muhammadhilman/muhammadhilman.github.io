@@ -11,7 +11,7 @@ nav_order: 2
 
 ***Current***
 
-* [Arief Dharmawan] (1-2024/2025) - Strategic Approach to Migrating ATM Network Infrastructure Management from the Bank to PT XYZ.
+* Arief Dharmawan (1-2024/2025) - Strategic Approach to Migrating ATM Network Infrastructure Management from the Bank to PT XYZ.
 
 * [Asaduddin As Zanky](https://www.linkedin.com/in/asaduddin-as-zanky/) (1-2024/2025) - Multi-tenant Resource Management for Kubernetes as Container Orchestration.
 

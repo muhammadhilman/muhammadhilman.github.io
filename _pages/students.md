@@ -11,17 +11,29 @@ nav_order: 2
 
 ***Current***
 
+* [Arief Dharmawan] (1-2024/2025) - Strategic Approach to Migrating ATM Network Infrastructure Management from the Bank to PT XYZ.
+
 * [Asaduddin As Zanky](https://www.linkedin.com/in/asaduddin-as-zanky/) (1-2024/2025) - Multi-tenant Resource Management for Kubernetes as Container Orchestration.
+
+* [Bayu Sektiaji](https://www.linkedin.com/in/bayusektiaji/) (1-2024/2025) - IT Infrastructure Optimization: A Case Study on Transitioning from Virtual Machine Servers to a Serverless Architecture for PT XYZ's School Management System Platform.
 
 * [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (1-2024/2025) - Resource Sharing for Cold Start Problems Prevention in Kubernetes Clusters.
 
+* [Feby Thealma](https://www.linkedin.com/in/feby-thealma/) (1-2024/2025) - Managing Change for SIEM System Migration: A Focus on Security Operation Center (SOC) Analysts at PT. XYZ.
+
 * [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (1-2024/2025) - Real-time Traffic Anomaly Detection with Networking Telemetry.
+
+* [Irwan Shofwan](https://www.linkedin.com/in/irwanshofwan/) (1-2024/2025) - Strategic Plan for Migrating the Access Management System to Ensure Sarbanes-Oxley Act Compliance: A Case Study of PT XYZ.
+
+* [Mochamad Gani Amri](https://www.linkedin.com/in/ganiamri/) (1-2024/2025) - Designing a Multi-Tenant SaaS-Based Software Architecture to Enhance EBITDA: A Case Study of PT Telkom's Network Monitoring System.
 
 * [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (1-2024/2025) - Educational Process Mining from Learning Management Systems' Log. Co-supervised with [Prof. Kasiyah](https://cs.ui.ac.id/personnel/kasiyah/)
 
 * [Muhammad Arya Rumanga A. Baso](https://www.linkedin.com/in/aryarumanga/) (1-2024/2025) - Cloud Computing Adoption in Local Government in Sulawesi.
 
 * [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (1-2024/2025) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
+
+* [Sani Novi Nugraheni](https://www.linkedin.com/in/sani-novi-nugraheni-8bb552159/) (1-2024/2025) - Assessing Private Cloud Implementation Using the Cloud Maturity Model: A Case Study of the Ministry of Finance.
 
 ***Past***
 

@@ -145,4 +145,4 @@ nav_order: 2
 
 * [Muhammad Irfan Fadhila](https://www.linkedin.com/in/irfanfadhila/) (2-2014/2015) - Performance Analysis of Virtual Machine and Docker for Reproducible Computing Environment. [report](https://drive.google.com/file/d/1UKiGkvjDH4D2bwtNumGPP-nKp83itprd/view?usp=sharing), [slide](https://drive.google.com/file/d/1mxa8K6-VpSqGiFncjlR4wcUSqcsofuLr/view?usp=sharing).
 
-* Fikrul Arif Nadra (2-2012/2013) - Implementation and Development of NFCafe: NFC-based Android Mobile App for Trading Transaction System in Cafetaria. [report](https://jiki.cs.ui.ac.id/index.php/jiki/article/view/215). Co-supervised with [Heri Kurniawan](https://cs.ui.ac.id/personnel/heri-kurniawan/).
+* [Fikrul Arif Nadra](https://www.linkedin.com/in/fikrularif/) (2-2012/2013) - Implementation and Development of NFCafe: NFC-based Android Mobile App for Trading Transaction System in Cafetaria. [report](https://jiki.cs.ui.ac.id/index.php/jiki/article/view/215). Co-supervised with [Heri Kurniawan](https://cs.ui.ac.id/personnel/heri-kurniawan/).

@@ -41,6 +41,8 @@ nav_order: 1
 
 > **Centre for Computer Science (Pusilkom UI)**
 
+* **Machine Learning Operations (MLOps)** - *Direktorat Jenderal Pajak, Kementerian Keuangan RI*
+
 * **AI and Data Analytics for Business / KNIME Big Data Processing and Analytics** - *BPJS Ketenagakerjaan RI*
 
 * **Data Analytics** - *Direktorat Jenderal Perbendaharaan, Kementerian Keuangan RI*

@@ -27,8 +27,6 @@ nav_order: 2
 
 * [Mochamad Gani Amri](https://www.linkedin.com/in/ganiamri/) (1-2024/2025) - Designing a Multi-Tenant SaaS-Based Software Architecture to Enhance EBITDA: A Case Study of PT Telkom's Network Monitoring System.
 
-* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (1-2024/2025) - Educational Process Mining from Learning Management Systems' Log. Co-supervised with [Prof. Kasiyah](https://cs.ui.ac.id/personnel/kasiyah/)
-
 * [Muhammad Arya Rumanga A. Baso](https://www.linkedin.com/in/aryarumanga/) (1-2024/2025) - Cloud Computing Adoption in Local Government in Sulawesi.
 
 * [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (1-2024/2025) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.

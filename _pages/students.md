@@ -11,29 +11,30 @@ nav_order: 2
 
 ***Current***
 
-* [Arief Dharmawan](https://www.linkedin.com/in/arief-dharmawan/) (1-2024/2025) - Strategic Approach to Migrating ATM Network Infrastructure Management from the Bank to PT XYZ.
+* [Arief Dharmawan](https://www.linkedin.com/in/arief-dharmawan/) (2-2024/2025) - Strategic Approach to Migrating ATM Network Infrastructure Management from the Bank to PT XYZ.
 
-* [Asaduddin As Zanky](https://www.linkedin.com/in/asaduddin-as-zanky/) (1-2024/2025) - Multi-tenant Resource Management for Kubernetes as Container Orchestration.
+* [Asaduddin As Zanky](https://www.linkedin.com/in/asaduddin-as-zanky/) (2-2024/2025) - Multi-tenant Resource Management for Kubernetes as Container Orchestration.
 
-* [Bayu Sektiaji](https://www.linkedin.com/in/bayusektiaji/) (1-2024/2025) - IT Infrastructure Optimization: A Case Study on Transitioning from Virtual Machine Servers to a Serverless Architecture for PT XYZ's School Management System Platform.
+* [Bayu Sektiaji](https://www.linkedin.com/in/bayusektiaji/) (2-2024/2025) - IT Infrastructure Optimization: A Case Study on Transitioning from Virtual Machine Servers to a Serverless Architecture for PT XYZ's School Management System Platform.
 
-* [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (1-2024/2025) - Resource Sharing for Cold Start Problems Prevention in Kubernetes Clusters.
+* [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (2-2024/2025) - Resource Sharing for Cold Start Problems Prevention in Kubernetes Clusters.
 
-* [Feby Thealma](https://www.linkedin.com/in/feby-thealma/) (1-2024/2025) - Managing Change for SIEM System Migration: A Focus on Security Operation Center (SOC) Analysts at PT. XYZ.
+* [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (2-2024/2025) - Real-time Traffic Anomaly Detection with Networking Telemetry.
 
-* [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (1-2024/2025) - Real-time Traffic Anomaly Detection with Networking Telemetry.
+* [Irwan Shofwan](https://www.linkedin.com/in/irwanshofwan/) (2-2024/2025) - Strategic Plan for Migrating the Access Management System to Ensure Sarbanes-Oxley Act Compliance: A Case Study of PT XYZ.
 
-* [Irwan Shofwan](https://www.linkedin.com/in/irwanshofwan/) (1-2024/2025) - Strategic Plan for Migrating the Access Management System to Ensure Sarbanes-Oxley Act Compliance: A Case Study of PT XYZ.
+* [Muhammad Arya Rumanga A. Baso](https://www.linkedin.com/in/aryarumanga/) (2-2024/2025) - Cloud Computing Adoption in Local Government in Sulawesi.
 
-* [Mochamad Gani Amri](https://www.linkedin.com/in/ganiamri/) (1-2024/2025) - Designing a Multi-Tenant SaaS-Based Software Architecture to Enhance EBITDA: A Case Study of PT Telkom's Network Monitoring System.
+* [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (2-2024/2025) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
 
-* [Muhammad Arya Rumanga A. Baso](https://www.linkedin.com/in/aryarumanga/) (1-2024/2025) - Cloud Computing Adoption in Local Government in Sulawesi.
-
-* [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (1-2024/2025) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
-
-* [Sani Novi Nugraheni](https://www.linkedin.com/in/sani-novi-nugraheni-8bb552159/) (1-2024/2025) - Assessing Private Cloud Implementation Using the Cloud Maturity Model: A Case Study of the Ministry of Finance.
 
 ***Past***
+
+* [Feby Thealma](https://www.linkedin.com/in/feby-thealma/) (1-2024/2025) - Managing Change in the SIEM System Migration Process at PT XYZ's Security Operations Center (SOC). [report](https://drive.google.com/file/d/15HL8B9ATB7nEG4qDDN3XbQhToZHAhB2G/view?usp=sharing). [slide](https://drive.google.com/file/d/15FFxfjPnv37LtSV9Qfzp4Hk1E0UAZ8CT/view?usp=sharing).
+
+* [Mochamad Gani Amri](https://www.linkedin.com/in/ganiamri/) (1-2024/2025) - Designing a Multi-Tenant SaaS-Based Software Architecture to Enhance EBITDA: A Case Study of PT Telkom's Network Monitoring System. [report](https://drive.google.com/file/d/154fXce8el0SsLHJxn1PrQfsluEEh6PJi/view?usp=sharing). [slide](https://drive.google.com/file/d/15B0HhAHC-wapVIHQVjkSEKVgzUm29Km5/view?usp=sharing).
+
+* [Sani Novi Nugraheni](https://www.linkedin.com/in/sani-novi-nugraheni-8bb552159/) (1-2024/2025) - Evaluation of Private Cloud Implementation Using the Cloud Maturity Model: A Case Study on the Ministry of Finance's Cloud Platform. [report](https://drive.google.com/file/d/150B9dZRowns0RaRyrM8qgfM0HLtn5ZuS/view?usp=sharing). [slide](https://drive.google.com/file/d/154JHM53ubbNgOFqATyHM3GB6ZiUlZH4F/view?usp=sharing).
 
 * [Tedy Tri Saputro](https://www.linkedin.com/in/tedy-tri-saputro/) (2-2023/2024) - Transformation of Accounting System Application based on Cloud-native Architecture using a Model-Driven Approach: A Case Study of PT XYZ. [report](https://drive.google.com/file/d/1hALzUA279aBqq2m7_J0I9mPwqepjuV76/view?usp=sharing), [slide](https://drive.google.com/file/d/1hBHOlIUdAClb0HSagKbQeLORY3uS_daJ/view?usp=sharing).
 
@@ -47,17 +48,17 @@ nav_order: 2
 
 ***Current***
 
-* [Adillah Putri](https://www.linkedin.com/in/adillah-putri-76368820a/) (1-2024-2025) - The Implementation of WebTransport in PeerToCP Application and Performance Comparison with WebSocket and WebRTC.
+* [Loanda Gunawan](https://www.linkedin.com/in/loanda-gunawan-859a481b7/) (2-2024/2025) - Multi-tenant Kubernetes Cluster.
 
-* [Givarrel Veivel Pattiwael](https://www.linkedin.com/in/veivel/), [Nayyara Airlangga Raharjo](https://www.linkedin.com/in/nayyara-airlangga-raharjo/), [Valerian Salim](https://www.linkedin.com/in/valeelim/) (1-2024/2025) - SYCL vs CUDA vs HIP: Performance Evaluation and Portability GPU Programming Models for NVIDIA and AMD.
-
-* [Linus Wicaksana](https://www.linkedin.com/in/linus-w-428360194/?locale=in_ID) (1-2024/2025) - Cockroach DB Performance Evaluation.
-
-* [Loanda Gunawan](https://www.linkedin.com/in/loanda-gunawan-859a481b7/) (1-2024/2025) - Multi-tenant Kubernetes Cluster.
-
-* [Razita Afrina Nuriyan](https://www.linkedin.com/in/razita-afrina-nuriyan/) (1-2024/2025) - Improvement of Redundancy Values Due to the Use of Kokkos in LAMMPS (Large-Scale Atomic/Molecular Massively Parallel Simulator) Based on Analysis Results Using GVProf.
+* [Razita Afrina Nuriyan](https://www.linkedin.com/in/razita-afrina-nuriyan/) (2-2024/2025) - Improvement of Redundancy Values Due to the Use of Kokkos in LAMMPS (Large-Scale Atomic/Molecular Massively Parallel Simulator) Based on Analysis Results Using GVProf.
 
 ***Past***
+
+* [Adillah Putri](https://www.linkedin.com/in/adillah-putri-76368820a/) (1-2024-2025) - Analyzing the Performance of the WebTransport Protocol in the PeerToCP Collaborative Code Editor Application. [report](https://drive.google.com/file/d/15XlHAnJt9HEOofjDtcIYq1phP7Rt9jn8/view?usp=sharing). [slide](https://drive.google.com/file/d/15YEOxwihLDaeARIbIfZetmLoj9Na3Mvf/view?usp=sharing).
+
+* [Givarrel Veivel Pattiwael](https://www.linkedin.com/in/veivel/), [Nayyara Airlangga Raharjo](https://www.linkedin.com/in/nayyara-airlangga-raharjo/), [Valerian Salim](https://www.linkedin.com/in/valeelim/) (1-2024/2025) - SYCL VS CUDA VS HIP: Evaluating The Performance and Portability of Different GPU Programming Models on NVIDIA and AMD GPUs. [report](https://drive.google.com/file/d/15SF8i3j60pfGOqS4dMgjqFwzfaCDgODy/view?usp=sharing). [slide](https://drive.google.com/file/d/15QDBpJj6pqSAQvLa0UEEK-ibONO_orSR/view?usp=sharing).
+
+* [Linus Wicaksana](https://www.linkedin.com/in/linus-w-428360194/?locale=in_ID) (1-2024/2025) - Benchmarking Distributed Databases Using CockroachDB: University Academic Information System Case Study. [report](https://drive.google.com/file/d/15I2bQ_23o63UT2XXPnfnYddSiP9E3w3b/view?usp=sharing). [slide](https://drive.google.com/file/d/15Hd712KloLzPxMXHMUDVFGOX97fAB6a9/view?usp=sharing). [repo](https://gitlab.cs.ui.ac.id/linus.abhyasa/paper2025-cockroachdb-vs-postgresql).
 
 * [Adrian Hakim Utomo](https://www.linkedin.com/in/adrian-utomo/), [Denny Johannes Hasea](https://www.linkedin.com/in/denny-johannes-hasea-75000420a/), and [Muhammad Rifqi Aditya](https://www.linkedin.com/in/muhammad-rifqi-praditya-3254771b9/) (2-2023/2024) - Swarm Based Chatbot Development for Customer Service Needs. [report](https://drive.google.com/file/d/1gy5tHmsQkBw1MbrFOU--yoRpdY59S6lH/view?usp=sharing), [slide](https://drive.google.com/file/d/1gxsmF9MY5QP6gKVpqVo8U2SX5r4LXYIf/view?usp=sharing), [repo](https://github.com/TA-Chetbot). Co-supervised with [Arawinda Dinakaramani](https://www.linkedin.com/in/aquaralpha/).
 

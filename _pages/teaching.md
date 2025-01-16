@@ -9,6 +9,10 @@ nav_order: 1
 
 > **Universitas Indonesia**
 
+* **Web Architecture & Application** - *CSCE604271* - (2-2024/2025)
+
+* **Advanced Systems Design & Research - Graduate Course** - *CSCE802239* - (2-2024/2025)
+
 * **Computer Networks** - *CSCM603154* - (1-2020/2021, 2-2020/2021, 1-2021/2022, 1-2022/2023, 2-2022/2023, 1-2023/2024, 1-2024/2025)
 
 * **Communication & Data Networks** - *CSIM603154* - (1-2021/2022, 1-2022/2023, 1-2023/2024, 1-2024/2025)

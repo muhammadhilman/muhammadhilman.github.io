@@ -11,11 +11,15 @@ nav_order: 2
 
 ***Current***
 
+* [Aji Prastio Wibowo](https://www.linkedin.com/in/ajoyajoya/) (2-2024/2025) - Feasibility Study on the Implementation of Blockchain-Based Property Asset Tokenization: A Case Study of PT Bank Tabungan Negara (Persero) Tbk (BTN).
+
 * [Arief Dharmawan](https://www.linkedin.com/in/arief-dharmawan/) (2-2024/2025) - Strategic Approach to Migrating ATM Network Infrastructure Management from the Bank to PT XYZ.
 
 * [Asaduddin As Zanky](https://www.linkedin.com/in/asaduddin-as-zanky/) (2-2024/2025) - Multi-tenant Resource Management for Kubernetes as Container Orchestration.
 
 * [Bayu Sektiaji](https://www.linkedin.com/in/bayusektiaji/) (2-2024/2025) - IT Infrastructure Optimization: A Case Study on Transitioning from Virtual Machine Servers to a Serverless Architecture for PT XYZ's School Management System Platform.
+
+* [Egriano Aristianto](https://www.linkedin.com/in/egrianoaristianto/) (2-2024/2025) - Guidelines for Implementing Personal Data Protection Law Compliance in Companies.
 
 * [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (2-2024/2025) - Resource Sharing for Cold Start Problems Prevention in Kubernetes Clusters.
 

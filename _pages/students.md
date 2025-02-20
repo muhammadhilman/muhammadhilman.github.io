@@ -48,7 +48,17 @@ nav_order: 2
 
 ***Current***
 
+* [Anindya Lokeswara](https://www.linkedin.com/in/anindya-lokeswara/), [Bryan Raihan 'Ilman](https://www.linkedin.com/in/bryan-ilman-0786381a7/), [Naufal Weise Widyatama](https://www.linkedin.com/in/naufal-weise-64990920a/) (2-2024/2025) - An Optimized Kafka Topic-Partitioning Approach in FogVerse for Real-Time System Monitoring and Alerting.
+
+* [Ferry](https://www.linkedin.com/in/ferryferry/) (2-2024/2025) - A Performance Analysis of Stream Processing Using Redistribution Operations.
+
+* [Hugo Sulaiman Setiawan](https://www.linkedin.com/in/hugo-setiawan/) (2-2024/2025) - Developing a Kubernetes-Based Multi-Tenant Container-as-a-Service Platform.
+
+* [Jeremy Alva Prathama](https://www.linkedin.com/in/jeremy-alva/) (2-2024/2025) - Pulsar vs Kafka: Evaluating the Broker Scaling and Partition Rebalancing Capabilities of Distributed Streaming Platforms For Building Real-Time Analytics Systems in Ride Sharing Applications.
+
 * [Loanda Gunawan](https://www.linkedin.com/in/loanda-gunawan-859a481b7/) (2-2024/2025) - Multi-tenant Kubernetes Cluster.
+
+* [Rafi Ghalibin Abrar](https://www.linkedin.com/in/rafighalibin/) (2-2024/2025) - Real-Time Data Homogenization and Complex Event Processing.
 
 * [Razita Afrina Nuriyan](https://www.linkedin.com/in/razita-afrina-nuriyan/) (2-2024/2025) - Improvement of Redundancy Values Due to the Use of Kokkos in LAMMPS (Large-Scale Atomic/Molecular Massively Parallel Simulator) Based on Analysis Results Using GVProf.
 

@@ -15,24 +15,19 @@ nav_order: 2
 
 * [Arief Dharmawan](https://www.linkedin.com/in/arief-dharmawan/) (2-2024/2025) - Strategic Approach to Migrating ATM Network Infrastructure Management from the Bank to PT XYZ.
 
-* [Asaduddin As Zanky](https://www.linkedin.com/in/asaduddin-as-zanky/) (2-2024/2025) - Multi-tenant Resource Management for Kubernetes as Container Orchestration.
-
 * [Bayu Sektiaji](https://www.linkedin.com/in/bayusektiaji/) (2-2024/2025) - IT Infrastructure Optimization: A Case Study on Transitioning from Virtual Machine Servers to a Serverless Architecture for PT XYZ's School Management System Platform.
 
 * [Egriano Aristianto](https://www.linkedin.com/in/egrianoaristianto/) (2-2024/2025) - Guidelines for Implementing Personal Data Protection Law Compliance in Companies.
-
-* [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (2-2024/2025) - Resource Sharing for Cold Start Problems Prevention in Kubernetes Clusters.
 
 * [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (2-2024/2025) - Real-time Traffic Anomaly Detection with Networking Telemetry.
 
 * [Irwan Shofwan](https://www.linkedin.com/in/irwanshofwan/) (2-2024/2025) - Strategic Plan for Migrating the Access Management System to Ensure Sarbanes-Oxley Act Compliance: A Case Study of PT XYZ.
 
-* [Muhammad Arya Rumanga A. Baso](https://www.linkedin.com/in/aryarumanga/) (2-2024/2025) - Cloud Computing Adoption in Local Government in Sulawesi.
-
 * [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (2-2024/2025) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
 
-
 ***Past***
+
+* [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (2-2024/2025) - Resource Sharing for Cold Start Problems Prevention in Kubernetes Clusters.
 
 * [Feby Thealma](https://www.linkedin.com/in/feby-thealma/) (1-2024/2025) - Managing Change in the SIEM System Migration Process at PT XYZ's Security Operations Center (SOC). [report](https://drive.google.com/file/d/15HL8B9ATB7nEG4qDDN3XbQhToZHAhB2G/view?usp=sharing), [slide](https://drive.google.com/file/d/15FFxfjPnv37LtSV9Qfzp4Hk1E0UAZ8CT/view?usp=sharing).
 
@@ -52,13 +47,7 @@ nav_order: 2
 
 ***Current***
 
-* [Ahmadhi Prananta Hastiputra](https://www.linkedin.com/in/ahmadhi/), [Emir Shamsuddin Fadhlurrahman](https://www.linkedin.com/in/emir-shamsuddin/), [Johannes Setiawan](https://www.linkedin.com/in/johannes-setiawan-b24884225/) (2-2024/2025) - A Kafka-Based Distributed Real-Time Intrusion Detection System with Monitoring and Alerting.
-
-* [Alfredo Austin](https://www.linkedin.com/in/alfredo-austin/), [Kevin Marcellius Alrino](https://www.linkedin.com/in/kevin-marcellius/), [Rayhan Putra Randi](https://www.linkedin.com/in/rayhanrandi/) (2-2024/2025) - Evaluating StreamK3s for Efficient Data Processing and Autoscaling in a Bike-Sharing System.
-
 * [Anindya Lokeswara](https://www.linkedin.com/in/anindya-lokeswara/), [Bryan Raihan 'Ilman](https://www.linkedin.com/in/bryan-ilman-0786381a7/), [Naufal Weise Widyatama](https://www.linkedin.com/in/naufal-weise-64990920a/) (2-2024/2025) - An Optimized Kafka Topic-Partitioning Approach in FogVerse for Real-Time System Monitoring and Alerting.
-
-* [Bintang Pratama](https://www.linkedin.com/in/bntpratama/), [Dipa Alhaza](https://www.linkedin.com/in/dpaalh/), [Vinsensius Ferdinando](https://www.linkedin.com/in/vinsensius-ferdinando-0b0296219/) (2-2024/2025) - Comparative Analysis of Kubernetes Multi-Tenancy Models in an E-Commerce Application: Evaluating Resource Allocation Fairness and Inter-Tenant Interference Using Hierarchical Namespace and Virtual Cluster Approaches.
 
 * [Daffa Muhammad Faizan](https://www.linkedin.com/in/daffafaizan/), [Muhammad Arief Braja Putra](https://www.linkedin.com/in/ariefbraja/), [Son Sulung Suryahatta Asnan](https://www.linkedin.com/in/sonsulung/) (2-2024/2025) - Blockchain and Zero-Knowledge Proof: Developing SmartZKCP for Secure Data Exchange in Online Marketplaces.
 
@@ -68,13 +57,15 @@ nav_order: 2
 
 * [Jeremy Alva Prathama](https://www.linkedin.com/in/jeremy-alva/) (2-2024/2025) - Pulsar vs Kafka: Evaluating the Broker Scaling and Partition Rebalancing Capabilities of Distributed Streaming Platforms For Building Real-Time Analytics Systems in Ride Sharing Applications.
 
-* [Loanda Gunawan](https://www.linkedin.com/in/loanda-gunawan-859a481b7/) (2-2024/2025) - Multi-tenant Kubernetes Cluster.
+***Past***
+
+* [Ahmadhi Prananta Hastiputra](https://www.linkedin.com/in/ahmadhi/), [Emir Shamsuddin Fadhlurrahman](https://www.linkedin.com/in/emir-shamsuddin/), [Johannes Setiawan](https://www.linkedin.com/in/johannes-setiawan-b24884225/) (2-2024/2025) - A Kafka-Based Distributed Real-Time Intrusion Detection System with Monitoring and Alerting.
+
+* [Alfredo Austin](https://www.linkedin.com/in/alfredo-austin/), [Kevin Marcellius Alrino](https://www.linkedin.com/in/kevin-marcellius/), [Rayhan Putra Randi](https://www.linkedin.com/in/rayhanrandi/) (2-2024/2025) - Evaluating StreamK3s for Efficient Data Processing and Autoscaling in a Bike-Sharing System.
+
+* [Bintang Pratama](https://www.linkedin.com/in/bntpratama/), [Dipa Alhaza](https://www.linkedin.com/in/dpaalh/), [Vinsensius Ferdinando](https://www.linkedin.com/in/vinsensius-ferdinando-0b0296219/) (2-2024/2025) - Comparative Analysis of Kubernetes Multi-Tenancy Models in an E-Commerce Application: Evaluating Resource Allocation Fairness and Inter-Tenant Interference Using Hierarchical Namespace and Virtual Cluster Approaches.
 
 * [Rafi Ghalibin Abrar](https://www.linkedin.com/in/rafighalibin/) (2-2024/2025) - Real-Time Data Homogenization and Complex Event Processing.
-
-* [Razita Afrina Nuriyan](https://www.linkedin.com/in/razita-afrina-nuriyan/) (2-2024/2025) - Improvement of Redundancy Values Due to the Use of Kokkos in LAMMPS (Large-Scale Atomic/Molecular Massively Parallel Simulator) Based on Analysis Results Using GVProf.
-
-***Past***
 
 * [Adillah Putri](https://www.linkedin.com/in/adillah-putri-76368820a/) (1-2024-2025) - Analyzing the Performance of the WebTransport Protocol in the PeerToCP Collaborative Code Editor Application. [report](https://drive.google.com/file/d/15XlHAnJt9HEOofjDtcIYq1phP7Rt9jn8/view?usp=sharing), [slide](https://drive.google.com/file/d/15YEOxwihLDaeARIbIfZetmLoj9Na3Mvf/view?usp=sharing), [repo](https://github.com/adillahptr/peertocp/tree/crdt-cs-webtransport).
 

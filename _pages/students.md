@@ -47,10 +47,6 @@ nav_order: 2
 
 ***Current***
 
-* [Anindya Lokeswara](https://www.linkedin.com/in/anindya-lokeswara/), [Bryan Raihan 'Ilman](https://www.linkedin.com/in/bryan-ilman-0786381a7/), [Naufal Weise Widyatama](https://www.linkedin.com/in/naufal-weise-64990920a/) (2-2024/2025) - An Optimized Kafka Topic-Partitioning Approach in FogVerse for Real-Time System Monitoring and Alerting.
-
-* [Daffa Muhammad Faizan](https://www.linkedin.com/in/daffafaizan/), [Muhammad Arief Braja Putra](https://www.linkedin.com/in/ariefbraja/), [Son Sulung Suryahatta Asnan](https://www.linkedin.com/in/sonsulung/) (2-2024/2025) - Blockchain and Zero-Knowledge Proof: Developing SmartZKCP for Secure Data Exchange in Online Marketplaces.
-
 * [Ferry](https://www.linkedin.com/in/ferryferry/) (2-2024/2025) - A Performance Analysis of Stream Processing Using Redistribution Operations.
 
 * [Hugo Sulaiman Setiawan](https://www.linkedin.com/in/hugo-setiawan/) (2-2024/2025) - Developing a Kubernetes-Based Multi-Tenant Container-as-a-Service Platform.
@@ -59,11 +55,15 @@ nav_order: 2
 
 ***Past***
 
+* [Anindya Lokeswara](https://www.linkedin.com/in/anindya-lokeswara/), [Bryan Raihan 'Ilman](https://www.linkedin.com/in/bryan-ilman-0786381a7/), [Naufal Weise Widyatama](https://www.linkedin.com/in/naufal-weise-64990920a/) (2-2024/2025) - An Optimized Kafka Topic-Partitioning Approach in FogVerse for Real-Time System Monitoring and Alerting.
+
 * [Ahmadhi Prananta Hastiputra](https://www.linkedin.com/in/ahmadhi/), [Emir Shamsuddin Fadhlurrahman](https://www.linkedin.com/in/emir-shamsuddin/), [Johannes Setiawan](https://www.linkedin.com/in/johannes-setiawan-b24884225/) (2-2024/2025) - A Kafka-Based Distributed Real-Time Intrusion Detection System with Monitoring and Alerting.
 
 * [Alfredo Austin](https://www.linkedin.com/in/alfredo-austin/), [Kevin Marcellius Alrino](https://www.linkedin.com/in/kevin-marcellius/), [Rayhan Putra Randi](https://www.linkedin.com/in/rayhanrandi/) (2-2024/2025) - Evaluating StreamK3s for Efficient Data Processing and Autoscaling in a Bike-Sharing System.
 
 * [Bintang Pratama](https://www.linkedin.com/in/bntpratama/), [Dipa Alhaza](https://www.linkedin.com/in/dpaalh/), [Vinsensius Ferdinando](https://www.linkedin.com/in/vinsensius-ferdinando-0b0296219/) (2-2024/2025) - Comparative Analysis of Kubernetes Multi-Tenancy Models in an E-Commerce Application: Evaluating Resource Allocation Fairness and Inter-Tenant Interference Using Hierarchical Namespace and Virtual Cluster Approaches.
+
+* [Daffa Muhammad Faizan](https://www.linkedin.com/in/daffafaizan/), [Muhammad Arief Braja Putra](https://www.linkedin.com/in/ariefbraja/), [Son Sulung Suryahatta Asnan](https://www.linkedin.com/in/sonsulung/) (2-2024/2025) - Blockchain and Zero-Knowledge Proof: Developing SmartZKCP for Secure Data Exchange in Online Marketplaces.
 
 * [Rafi Ghalibin Abrar](https://www.linkedin.com/in/rafighalibin/) (2-2024/2025) - Real-Time Data Homogenization and Complex Event Processing.
 

@@ -65,7 +65,7 @@ nav_order: 2
 
 * [Jeremy Alva Prathama](https://www.linkedin.com/in/jeremy-alva/) (2-2024/2025) - Pulsar vs Kafka: Evaluating the Broker Scaling and Partition Rebalancing Capabilities of Distributed Streaming Platforms For Building Real-Time Analytics Systems in Ride Sharing Applications.
 
-* [Rafi Ghalibin Abrar](https://www.linkedin.com/in/rafighalibin/) (2-2024/2025) - Real-Time Data Homogenization and Complex Event Processing.
+* [Rafi Ghalibin Abrar](https://www.linkedin.com/in/rafighalibin/) (2-2024/2025) - Performance Analysis of Multi-threading in Kafka Consumer for Data Homogenization Process. [report](https://drive.google.com/file/d/1MVM2pxLzmcHMwQiyZoLkUGoNggKXQzhn/view?usp=sharing). [slide](https://drive.google.com/file/d/1UTEUn3IoohIlFKOfSeVq1WDsCbQnxqfC/view?usp=sharing). [repo](https://github.com/rafighalibin/homogenization-sp).
 
 * [Adillah Putri](https://www.linkedin.com/in/adillah-putri-76368820a/) (1-2024-2025) - Analyzing the Performance of the WebTransport Protocol in the PeerToCP Collaborative Code Editor Application. [report](https://drive.google.com/file/d/15XlHAnJt9HEOofjDtcIYq1phP7Rt9jn8/view?usp=sharing), [slide](https://drive.google.com/file/d/15YEOxwihLDaeARIbIfZetmLoj9Na3Mvf/view?usp=sharing), [repo](https://github.com/adillahptr/peertocp/tree/crdt-cs-webtransport).
 

@@ -11,19 +11,21 @@ nav_order: 2
 
 ***Current***
 
-* [Aji Prastio Wibowo](https://www.linkedin.com/in/ajoyajoya/) (2-2024/2025) - Feasibility Study on the Implementation of Blockchain-Based Property Asset Tokenization: A Case Study of PT Bank Tabungan Negara (Persero) Tbk (BTN).
+* [Aji Prastio Wibowo](https://www.linkedin.com/in/ajoyajoya/) (1-2025/2026) - Feasibility Study on the Implementation of Blockchain-Based Property Asset Tokenization: A Case Study of PT Bank Tabungan Negara (Persero) Tbk (BTN).
 
-* [Bayu Sektiaji](https://www.linkedin.com/in/bayusektiaji/) (2-2024/2025) - IT Infrastructure Optimization: A Case Study on Transitioning from Virtual Machine Servers to a Serverless Architecture for PT XYZ's School Management System Platform.
+* [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (1-2025/2026) - Real-time Traffic Anomaly Detection with Networking Telemetry.
 
-* [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (2-2024/2025) - Real-time Traffic Anomaly Detection with Networking Telemetry.
+* [Irwan Shofwan](https://www.linkedin.com/in/irwanshofwan/) (1-2025/2026) - Strategic Plan for Migrating the Access Management System to Ensure Sarbanes-Oxley Act Compliance: A Case Study of PT XYZ.
 
-* [Irwan Shofwan](https://www.linkedin.com/in/irwanshofwan/) (2-2024/2025) - Strategic Plan for Migrating the Access Management System to Ensure Sarbanes-Oxley Act Compliance: A Case Study of PT XYZ.
+* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (1-2025/2026) - MLOps Architecture for DIstributed Streaming Learning.
 
-* [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (2-2024/2025) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
+* [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (1-2025/2026) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
 
 ***Past***
 
 * [Arief Dharmawan](https://www.linkedin.com/in/arief-dharmawan/) (2-2024/2025) - Strategic Approach to Migrating ATM Network Infrastructure Management from the Bank to PT XYZ.
+
+* [Bayu Sektiaji](https://www.linkedin.com/in/bayusektiaji/) (2-2024/2025) - IT Infrastructure Optimization: A Case Study on Transitioning from Virtual Machine Servers to a Serverless Architecture for PT XYZ's School Management System Platform.
 
 * [Egriano Aristianto](https://www.linkedin.com/in/egrianoaristianto/) (2-2024/2025) - Guidelines for Implementing Personal Data Protection Law Compliance in Companies.
 
@@ -47,9 +49,17 @@ nav_order: 2
 
 ***Current***
 
-* [Ferry](https://www.linkedin.com/in/ferryferry/) (2-2024/2025) - A Performance Analysis of Stream Processing Using Redistribution Operations.
+* [Adrial Natanael Liong](https://www.linkedin.com/in/adrial-natanael/) (1-2025/2026) - Time Series-based Approach to Elastic Kubernetes Scaling.
 
-* [Hugo Sulaiman Setiawan](https://www.linkedin.com/in/hugo-setiawan/) (2-2024/2025) - Developing a Kubernetes-Based Multi-Tenant Container-as-a-Service Platform.
+* [Danendra Herdiansyah](https://www.linkedin.com/in/danendra-herdiansyah/) (1-2025/2026) - An Approach for Reducing Vendor Lock-in and Response Time in Serverless Workflows.
+
+* [Gabriella Naomi Hutagalung](https://www.linkedin.com/in/gabriellanaomihutagalung/) (1-2025/2026) - Constraint-Aware Recovery Decision Making for Kubernetes Using BiLSTM and Infrastructure Automation.
+
+* [Hugo Sulaiman Setiawan](https://www.linkedin.com/in/hugo-setiawan/) (1-2025/2026) - Developing a Kubernetes-Based Multi-Tenant Container-as-a-Service Platform.
+
+* [Maurice Yang](https://www.linkedin.com/in/maurice-yang/) (1-2025/2026) - Continuous Autonomous Periodically Synced Unified LSTM to Predict Kubernetes Resource Usage.
+
+* [Robert Benyamin](https://www.linkedin.com/in/robert-benyamin/) (1-2025/2026) - Multi-tenant Kubernetes Infrastructure.
 
 ***Past***
 
@@ -62,6 +72,8 @@ nav_order: 2
 * [Bintang Pratama](https://www.linkedin.com/in/bntpratama/), [Dipa Alhaza](https://www.linkedin.com/in/dpaalh/), [Vinsensius Ferdinando](https://www.linkedin.com/in/vinsensius-ferdinando-0b0296219/) (2-2024/2025) - Comparative Analysis of Kubernetes Multi-Tenancy Models in an E-Commerce Application: Evaluating Resource Allocation Fairness and Inter-Tenant Interference Using Hierarchical Namespace and Virtual Cluster Approaches.
 
 * [Daffa Muhammad Faizan](https://www.linkedin.com/in/daffafaizan/), [Muhammad Arief Braja Putra](https://www.linkedin.com/in/ariefbraja/), [Son Sulung Suryahatta Asnan](https://www.linkedin.com/in/sonsulung/) (2-2024/2025) - Blockchain and Zero-Knowledge Proof: Developing SmartZKCP for Secure Data Exchange in Online Marketplaces.
+
+* [Ferry](https://www.linkedin.com/in/ferryferry/) (2-2024/2025) - A Performance Analysis of Stream Processing Using Redistribution Operations.
 
 * [Jeremy Alva Prathama](https://www.linkedin.com/in/jeremy-alva/) (2-2024/2025) - Pulsar vs Kafka: Evaluating the Broker Scaling and Partition Rebalancing Capabilities of Distributed Streaming Platforms For Building Real-Time Analytics Systems in Ride Sharing Applications.
 

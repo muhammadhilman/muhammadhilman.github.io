@@ -13,11 +13,7 @@ nav_order: 2
 
 * [Aji Prastio Wibowo](https://www.linkedin.com/in/ajoyajoya/) (2-2024/2025) - Feasibility Study on the Implementation of Blockchain-Based Property Asset Tokenization: A Case Study of PT Bank Tabungan Negara (Persero) Tbk (BTN).
 
-* [Arief Dharmawan](https://www.linkedin.com/in/arief-dharmawan/) (2-2024/2025) - Strategic Approach to Migrating ATM Network Infrastructure Management from the Bank to PT XYZ.
-
 * [Bayu Sektiaji](https://www.linkedin.com/in/bayusektiaji/) (2-2024/2025) - IT Infrastructure Optimization: A Case Study on Transitioning from Virtual Machine Servers to a Serverless Architecture for PT XYZ's School Management System Platform.
-
-* [Egriano Aristianto](https://www.linkedin.com/in/egrianoaristianto/) (2-2024/2025) - Guidelines for Implementing Personal Data Protection Law Compliance in Companies.
 
 * [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (2-2024/2025) - Real-time Traffic Anomaly Detection with Networking Telemetry.
 
@@ -26,6 +22,10 @@ nav_order: 2
 * [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (2-2024/2025) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
 
 ***Past***
+
+* [Arief Dharmawan](https://www.linkedin.com/in/arief-dharmawan/) (2-2024/2025) - Strategic Approach to Migrating ATM Network Infrastructure Management from the Bank to PT XYZ.
+
+* [Egriano Aristianto](https://www.linkedin.com/in/egrianoaristianto/) (2-2024/2025) - Guidelines for Implementing Personal Data Protection Law Compliance in Companies.
 
 * [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (2-2024/2025) - Resource Sharing for Cold Start Problems Prevention in Kubernetes Clusters.
 
@@ -51,8 +51,6 @@ nav_order: 2
 
 * [Hugo Sulaiman Setiawan](https://www.linkedin.com/in/hugo-setiawan/) (2-2024/2025) - Developing a Kubernetes-Based Multi-Tenant Container-as-a-Service Platform.
 
-* [Jeremy Alva Prathama](https://www.linkedin.com/in/jeremy-alva/) (2-2024/2025) - Pulsar vs Kafka: Evaluating the Broker Scaling and Partition Rebalancing Capabilities of Distributed Streaming Platforms For Building Real-Time Analytics Systems in Ride Sharing Applications.
-
 ***Past***
 
 * [Anindya Lokeswara](https://www.linkedin.com/in/anindya-lokeswara/), [Bryan Raihan 'Ilman](https://www.linkedin.com/in/bryan-ilman-0786381a7/), [Naufal Weise Widyatama](https://www.linkedin.com/in/naufal-weise-64990920a/) (2-2024/2025) - An Optimized Kafka Topic-Partitioning Approach in FogVerse for Real-Time System Monitoring and Alerting.
@@ -64,6 +62,8 @@ nav_order: 2
 * [Bintang Pratama](https://www.linkedin.com/in/bntpratama/), [Dipa Alhaza](https://www.linkedin.com/in/dpaalh/), [Vinsensius Ferdinando](https://www.linkedin.com/in/vinsensius-ferdinando-0b0296219/) (2-2024/2025) - Comparative Analysis of Kubernetes Multi-Tenancy Models in an E-Commerce Application: Evaluating Resource Allocation Fairness and Inter-Tenant Interference Using Hierarchical Namespace and Virtual Cluster Approaches.
 
 * [Daffa Muhammad Faizan](https://www.linkedin.com/in/daffafaizan/), [Muhammad Arief Braja Putra](https://www.linkedin.com/in/ariefbraja/), [Son Sulung Suryahatta Asnan](https://www.linkedin.com/in/sonsulung/) (2-2024/2025) - Blockchain and Zero-Knowledge Proof: Developing SmartZKCP for Secure Data Exchange in Online Marketplaces.
+
+* [Jeremy Alva Prathama](https://www.linkedin.com/in/jeremy-alva/) (2-2024/2025) - Pulsar vs Kafka: Evaluating the Broker Scaling and Partition Rebalancing Capabilities of Distributed Streaming Platforms For Building Real-Time Analytics Systems in Ride Sharing Applications.
 
 * [Rafi Ghalibin Abrar](https://www.linkedin.com/in/rafighalibin/) (2-2024/2025) - Real-Time Data Homogenization and Complex Event Processing.
 

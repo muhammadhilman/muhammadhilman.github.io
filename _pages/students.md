@@ -23,7 +23,7 @@ nav_order: 2
 
 ***Past***
 
-* [Arief Dharmawan](https://www.linkedin.com/in/arief-dharmawan/) (2-2024/2025) - Strategic Approach to Migrating ATM Network Infrastructure Management from the Bank to PT XYZ.
+* [Arief Dharmawan](https://www.linkedin.com/in/arief-dharmawan/) (2-2024/2025) - ATM Network Infrastructure Migration Strategy from Bank to PT XYZ. [report](https://drive.google.com/file/d/1KfzsX0tPONrFiVNrlcX7aiaKcD1JBB25/view?usp=sharing), [slide](https://drive.google.com/file/d/1WGEcilpccSvj6S1NO5FEtkKycoQRJauQ/view?usp=sharing).
 
 * [Bayu Sektiaji](https://www.linkedin.com/in/bayusektiaji/) (2-2024/2025) - IT Infrastructure Optimization: A Case Study on Transitioning from Virtual Machine Servers to a Serverless Architecture for PT XYZ's School Management System Platform.
 
@@ -67,9 +67,10 @@ nav_order: 2
 
 * [Ahmadhi Prananta Hastiputra](https://www.linkedin.com/in/ahmadhi/), [Emir Shamsuddin Fadhlurrahman](https://www.linkedin.com/in/emir-shamsuddin/), [Johannes Setiawan](https://www.linkedin.com/in/johannes-setiawan-b24884225/) (2-2024/2025) - A Kafka-Based Distributed Real-Time Intrusion Detection System with Monitoring and Alerting. [report](https://drive.google.com/file/d/1JiBXOn9v7nGl7nqiyvW8GsFZXJ96S_sW/view?usp=sharing), [slide](https://drive.google.com/file/d/1hdTvrE2VdfJ-56IJTWGrJMVpSZvZRBdR/view?usp=sharing), [repo](https://github.com/NetLog-IDS).
 
-* [Alfredo Austin](https://www.linkedin.com/in/alfredo-austin/), [Kevin Marcellius Alrino](https://www.linkedin.com/in/kevin-marcellius/), [Rayhan Putra Randi](https://www.linkedin.com/in/rayhanrandi/) (2-2024/2025) - Evaluating StreamK3s for Efficient Data Processing and Autoscaling in a Bike-Sharing System.
+* [Alfredo Austin](https://www.linkedin.com/in/alfredo-austin/), [Kevin Marcellius Alrino](https://www.linkedin.com/in/kevin-marcellius/), [Rayhan Putra Randi](https://www.linkedin.com/in/rayhanrandi/) (2-2024/2025) - Evaluating StreamK3s for Efficient Data Processing and Autoscaling in a Bike-Sharing System. [report](https://drive.google.com/file/d/1uNX45igiV8PHccgEwYM7ks6KrEP0ik9R/view?usp=sharing), [slide](https://drive.google.com/file/d/1IpFk03CrSnqrtnAsF498-h-KcTrp6Zmx/view?usp=sharing), [repo](https://github.com/streamk3s-csui/).
 
-* [Bintang Pratama](https://www.linkedin.com/in/bntpratama/), [Dipa Alhaza](https://www.linkedin.com/in/dpaalh/), [Vinsensius Ferdinando](https://www.linkedin.com/in/vinsensius-ferdinando-0b0296219/) (2-2024/2025) - Comparative Analysis of Kubernetes Multi-Tenancy Models in an E-Commerce Application: Evaluating Resource Allocation Fairness and Inter-Tenant Interference Using Hierarchical Namespace and Virtual Cluster Approaches.
+* [Bintang Pratama](https://www.linkedin.com/in/bntpratama/), [Dipa Alhaza](https://www.linkedin.com/in/dpaalh/), [Vinsensius Ferdinando](https://www.linkedin.com/in/vinsensius-ferdinando-0b0296219/) (2-2024/2025) - Evaluation of Performance Fairness and
+Interference in Multi-tenant Kubernetes Architectures. [report](https://drive.google.com/file/d/1nZxsH8Efg8kdMfnb-O698icgdTiBhVTZ/view?usp=sharing), [slide](https://drive.google.com/file/d/1dCD0M_2q5ILOqzGkwXJ1Di3QFIPdcwud/view?usp=sharing), [repo](https://github.com/K8s-Multitenancy).
 
 * [Daffa Muhammad Faizan](https://www.linkedin.com/in/daffafaizan/), [Muhammad Arief Braja Putra](https://www.linkedin.com/in/ariefbraja/), [Son Sulung Suryahatta Asnan](https://www.linkedin.com/in/sonsulung/) (2-2024/2025) - Blockchain and Zero-Knowledge Proof: Developing SmartZKCP for Secure Data Exchange in Online Marketplaces. [report](https://drive.google.com/file/d/1kJ0HhO-eEovpUyU8GXFKdMKj8HxB9183/view?usp=sharing), [slide](https://drive.google.com/file/d/1TyGtKdmViUnkRVLqGyQRNasMXCJ_8GyB/view?usp=sharing), [repo](https://github.com/csl-blockchain/goatzkcp).
 

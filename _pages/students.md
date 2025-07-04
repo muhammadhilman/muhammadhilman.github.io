@@ -73,7 +73,7 @@ nav_order: 2
 
 * [Daffa Muhammad Faizan](https://www.linkedin.com/in/daffafaizan/), [Muhammad Arief Braja Putra](https://www.linkedin.com/in/ariefbraja/), [Son Sulung Suryahatta Asnan](https://www.linkedin.com/in/sonsulung/) (2-2024/2025) - Blockchain and Zero-Knowledge Proof: Developing SmartZKCP for Secure Data Exchange in Online Marketplaces. [report](https://drive.google.com/file/d/1kJ0HhO-eEovpUyU8GXFKdMKj8HxB9183/view?usp=sharing), [slide](https://drive.google.com/file/d/1TyGtKdmViUnkRVLqGyQRNasMXCJ_8GyB/view?usp=sharing), [repo](https://github.com/csl-blockchain/goatzkcp).
 
-* [Ferry](https://www.linkedin.com/in/ferryferry/) (2-2024/2025) - A Performance Analysis of Stream Processing Using Redistribution Operations.
+* [Ferry](https://www.linkedin.com/in/ferryferry/) (2-2024/2025) - Extending ShuffleBench for Simulating and Evaluating Workload Imbalance in Stream Processing Systems. [report](https://drive.google.com/file/d/1hFDgR79Aq4PqIcMWiCnkFoj__FtxzLn_/view?usp=sharing), [slide](https://drive.google.com/file/d/13KaFaKXKcZWk-xl6SDkkt2EtfW0t1teA/view?usp=sharing), [repo](https://github.com/ferryhieronimus/extended-shufflebench).
 
 * [Jeremy Alva Prathama](https://www.linkedin.com/in/jeremy-alva/) (2-2024/2025) - Evaluating Throughput and Latency Profiles of Varying Durability Guarantees in Distributed Streaming Platforms. [report](https://drive.google.com/file/d/1G5NcF-awJMWmjKo5ag-36JsK6ELD91ED/view?usp=sharing), [slide](https://drive.google.com/file/d/1LG14f-a8IF6Y3CEFKojcywhmZbRRA9L4/view?usp=sharing), [repo](https://github.com/jeremyalv/skripsi-jeremyalva/).
 

@@ -17,7 +17,7 @@ nav_order: 2
 
 * [Irwan Shofwan](https://www.linkedin.com/in/irwanshofwan/) (1-2025/2026) - Strategic Plan for Migrating the Access Management System to Ensure Sarbanes-Oxley Act Compliance: A Case Study of PT XYZ.
 
-* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (1-2025/2026) - MLOps Architecture for DIstributed Streaming Learning.
+* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (1-2025/2026) - MLOps Architecture for Distributed Streaming Learning.
 
 * [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (1-2025/2026) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
 
@@ -29,7 +29,7 @@ nav_order: 2
 
 * [Egriano Aristianto](https://www.linkedin.com/in/egrianoaristianto/) (2-2024/2025) - Guidelines for Implementing Personal Data Protection Law Compliance in Companies.
 
-* [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (2-2024/2025) - Resource Sharing for Cold Start Problems Prevention in Kubernetes Clusters.
+* [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (2-2024/2025) - Adaptive Scheduling for Serverless Platforms Using SRTF and Dynamic Aging Approaches. [report](https://drive.google.com/file/d/1TfjIW1CGhHCp8cmkJGg3IMl-GxJsSmmy/view?usp=sharing). [slide](https://drive.google.com/file/d/1cUuJn0LfN1VpkU9pXbC5hm48cCWwM4Sh/view?usp=sharing). [repo](github.com/fakhriakmalh/adaptive-scheduler-faas).
 
 * [Feby Thealma](https://www.linkedin.com/in/feby-thealma/) (1-2024/2025) - Managing Change in the SIEM System Migration Process at PT XYZ's Security Operations Center (SOC). [report](https://drive.google.com/file/d/15HL8B9ATB7nEG4qDDN3XbQhToZHAhB2G/view?usp=sharing), [slide](https://drive.google.com/file/d/15FFxfjPnv37LtSV9Qfzp4Hk1E0UAZ8CT/view?usp=sharing).
 
@@ -63,19 +63,19 @@ nav_order: 2
 
 ***Past***
 
-* [Anindya Lokeswara](https://www.linkedin.com/in/anindya-lokeswara/), [Bryan Raihan 'Ilman](https://www.linkedin.com/in/bryan-ilman-0786381a7/), [Naufal Weise Widyatama](https://www.linkedin.com/in/naufal-weise-64990920a/) (2-2024/2025) - An Optimized Kafka Topic-Partitioning Approach in FogVerse for Real-Time System Monitoring and Alerting.
+* [Anindya Lokeswara](https://www.linkedin.com/in/anindya-lokeswara/), [Bryan Raihan 'Ilman](https://www.linkedin.com/in/bryan-ilman-0786381a7/), [Naufal Weise Widyatama](https://www.linkedin.com/in/naufal-weise-64990920a/) (2-2024/2025) - Adaptive Kafka Brokers, Topic Partition, and Consumer Allocation in FogVerse for Real-Time System Monitoring and Alerting. [report](https://drive.google.com/file/d/1nueJLCB4xJmlDnjfXB_LTsVtRvEdQtCw/view?usp=sharing). [slide](https://drive.google.com/file/d/1zNseFCCOkYHt4RzeW6wDlP8mfxcdqxts/view?usp=sharing). [repo](https://github.com/naufalweise/fogverse/tree/refactoring).
 
-* [Ahmadhi Prananta Hastiputra](https://www.linkedin.com/in/ahmadhi/), [Emir Shamsuddin Fadhlurrahman](https://www.linkedin.com/in/emir-shamsuddin/), [Johannes Setiawan](https://www.linkedin.com/in/johannes-setiawan-b24884225/) (2-2024/2025) - A Kafka-Based Distributed Real-Time Intrusion Detection System with Monitoring and Alerting.
+* [Ahmadhi Prananta Hastiputra](https://www.linkedin.com/in/ahmadhi/), [Emir Shamsuddin Fadhlurrahman](https://www.linkedin.com/in/emir-shamsuddin/), [Johannes Setiawan](https://www.linkedin.com/in/johannes-setiawan-b24884225/) (2-2024/2025) - A Kafka-Based Distributed Real-Time Intrusion Detection System with Monitoring and Alerting. [report](https://drive.google.com/file/d/1JiBXOn9v7nGl7nqiyvW8GsFZXJ96S_sW/view?usp=sharing). [slide](https://drive.google.com/file/d/1hdTvrE2VdfJ-56IJTWGrJMVpSZvZRBdR/view?usp=sharing). [repo](https://github.com/NetLog-IDS).
 
 * [Alfredo Austin](https://www.linkedin.com/in/alfredo-austin/), [Kevin Marcellius Alrino](https://www.linkedin.com/in/kevin-marcellius/), [Rayhan Putra Randi](https://www.linkedin.com/in/rayhanrandi/) (2-2024/2025) - Evaluating StreamK3s for Efficient Data Processing and Autoscaling in a Bike-Sharing System.
 
 * [Bintang Pratama](https://www.linkedin.com/in/bntpratama/), [Dipa Alhaza](https://www.linkedin.com/in/dpaalh/), [Vinsensius Ferdinando](https://www.linkedin.com/in/vinsensius-ferdinando-0b0296219/) (2-2024/2025) - Comparative Analysis of Kubernetes Multi-Tenancy Models in an E-Commerce Application: Evaluating Resource Allocation Fairness and Inter-Tenant Interference Using Hierarchical Namespace and Virtual Cluster Approaches.
 
-* [Daffa Muhammad Faizan](https://www.linkedin.com/in/daffafaizan/), [Muhammad Arief Braja Putra](https://www.linkedin.com/in/ariefbraja/), [Son Sulung Suryahatta Asnan](https://www.linkedin.com/in/sonsulung/) (2-2024/2025) - Blockchain and Zero-Knowledge Proof: Developing SmartZKCP for Secure Data Exchange in Online Marketplaces.
+* [Daffa Muhammad Faizan](https://www.linkedin.com/in/daffafaizan/), [Muhammad Arief Braja Putra](https://www.linkedin.com/in/ariefbraja/), [Son Sulung Suryahatta Asnan](https://www.linkedin.com/in/sonsulung/) (2-2024/2025) - Blockchain and Zero-Knowledge Proof: Developing SmartZKCP for Secure Data Exchange in Online Marketplaces. [report](https://drive.google.com/file/d/1kJ0HhO-eEovpUyU8GXFKdMKj8HxB9183/view?usp=sharing). [slide](https://drive.google.com/file/d/1TyGtKdmViUnkRVLqGyQRNasMXCJ_8GyB/view?usp=sharing). [repo](https://github.com/csl-blockchain/goatzkcp).
 
 * [Ferry](https://www.linkedin.com/in/ferryferry/) (2-2024/2025) - A Performance Analysis of Stream Processing Using Redistribution Operations.
 
-* [Jeremy Alva Prathama](https://www.linkedin.com/in/jeremy-alva/) (2-2024/2025) - Pulsar vs Kafka: Evaluating the Broker Scaling and Partition Rebalancing Capabilities of Distributed Streaming Platforms For Building Real-Time Analytics Systems in Ride Sharing Applications.
+* [Jeremy Alva Prathama](https://www.linkedin.com/in/jeremy-alva/) (2-2024/2025) - Evaluating Throughput and Latency Profiles of Varying Durability Guarantees in Distributed Streaming Platforms. [report](https://drive.google.com/file/d/1G5NcF-awJMWmjKo5ag-36JsK6ELD91ED/view?usp=sharing). [slide](https://drive.google.com/file/d/1LG14f-a8IF6Y3CEFKojcywhmZbRRA9L4/view?usp=sharing). [repo](https://github.com/jeremyalv/skripsi-jeremyalva/).
 
 * [Rafi Ghalibin Abrar](https://www.linkedin.com/in/rafighalibin/) (2-2024/2025) - Performance Analysis of Multi-threading in Kafka Consumer for Data Homogenization Process. [report](https://drive.google.com/file/d/1MVM2pxLzmcHMwQiyZoLkUGoNggKXQzhn/view?usp=sharing). [slide](https://drive.google.com/file/d/1UTEUn3IoohIlFKOfSeVq1WDsCbQnxqfC/view?usp=sharing). [repo](https://github.com/rafighalibin/homogenization-sp).
 
@@ -175,10 +175,10 @@ nav_order: 2
 
 * [Eka Satria Soekarno](https://www.linkedin.com/in/ekasatria/) (1-2015/2016) - Analyzing Docker's Performance for Molecular Dynamic Simulation Based on GPU with AMBER. [report](https://drive.google.com/file/d/1gsfJFqWU038YIER7IEfE71zfwWTlERYb/view?usp=sharing), [slide](https://drive.google.com/file/d/1kNr6UqQgnORNrk8ciToO9SZoD_bfWRpn/view?usp=sharing). Co-supervised with [Prof. Heru Suhartanto](https://scholar.google.com/citations?user=bNZZwHkAAAAJ&hl=en).
 
-* [Agung Putra Pasaribu](https://www.linkedin.com/in/agung-putra-pasaribu-a16496201/) (2-2014/2015) - Analyzing Docker's Performance for Virtual Screening of Indonesian Medicinal Plants with Autodock and Autodock Vina. [report](https://drive.google.com/file/d/1h6fVOlatbTn_VQHwRoPkDHOrPH9JhUaY/view?usp=sharing), [slide](https://drive.google.com/file/d/1b3k9MuwGysCqVyyMaWryzyXTVP91we1M/view?usp=sharing).
+* [Agung Putra Pasaribu](https://www.linkedin.com/in/agung-putra-pasaribu-a16496201/) (2-2014/2015) - Analyzing Docker's Performance for Virtual Screening of Indonesian Medicinal Plants with Autodock and Autodock Vina. [report](https://s.id/AqYAY), [slide](https://drive.google.com/file/d/1b3k9MuwGysCqVyyMaWryzyXTVP91we1M/view?usp=sharing).
 
-* [Muhammad Fajar Siddiq](https://www.linkedin.com/in/mfajar31/) (2-2014/2015) - Performance Analysis of VirtualBox and Docker for Cloud Computing Platform. [report](https://drive.google.com/file/d/17eiVCQ-PTe9h-8IGUnumEMpYEmLDjVD4/view?usp=sharing), [slide](https://drive.google.com/file/d/1d-ICdWFVcHQau86BeE_DNeYwlzMolevF/view?usp=sharing).
+* [Muhammad Fajar Siddiq](https://www.linkedin.com/in/mfajar31/) (2-2014/2015) - Performance Analysis of VirtualBox and Docker for Cloud Computing Platform. [report](https://s.id/fajar-report-2-1415), [slide](https://s.id/fajar-slide-2-1415).
 
-* [Muhammad Irfan Fadhila](https://www.linkedin.com/in/irfanfadhila/) (2-2014/2015) - Performance Analysis of Virtual Machine and Docker for Reproducible Computing Environment. [report](https://drive.google.com/file/d/1UKiGkvjDH4D2bwtNumGPP-nKp83itprd/view?usp=sharing), [slide](https://drive.google.com/file/d/1mxa8K6-VpSqGiFncjlR4wcUSqcsofuLr/view?usp=sharing).
+* [Muhammad Irfan Fadhila](https://www.linkedin.com/in/irfanfadhila/) (2-2014/2015) - Performance Analysis of Virtual Machine and Docker for Reproducible Computing Environment. [report](https://s.id/fadhila-report-2-1415), [slide](https://s.id/fadhila-slide-2-1415).
 
-* [Fikrul Arif Nadra](https://www.linkedin.com/in/fikrularif/) (2-2012/2013) - Implementation and Development of NFCafe: NFC-based Android Mobile App for Trading Transaction System in Cafetaria. [report](https://jiki.cs.ui.ac.id/index.php/jiki/article/view/215). Co-supervised with [Heri Kurniawan](https://cs.ui.ac.id/personnel/heri-kurniawan/).
+* [Fikrul Arif Nadra](https://www.linkedin.com/in/fikrularif/) (2-2012/2013) - Implementation and Development of NFCafe: NFC-based Android Mobile App for Trading Transaction System in Cafetaria. [report](https://s.id/nadra-2-1213). Co-supervised with [Heri Kurniawan](https://cs.ui.ac.id/personnel/heri-kurniawan/).

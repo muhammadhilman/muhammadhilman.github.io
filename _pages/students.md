@@ -25,7 +25,7 @@ nav_order: 2
 
 * [Bayu Sektiaji](https://www.linkedin.com/in/bayusektiaji/) (2-2024/2025) - IT Infrastructure Optimization: A Case Study on Transitioning from Virtual Machine Servers to a Serverless Architecture for PT XYZ's School Management System Platform.
 
-* [Egriano Aristianto](https://www.linkedin.com/in/egrianoaristianto/) (2-2024/2025) - Guidelines for Implementing Personal Data Protection Law Compliance in Companies.
+* [Egriano Aristianto](https://www.linkedin.com/in/egrianoaristianto/) (2-2024/2025) - Information System Compliance And Assesment Framework for Personal Data Protection Regulation: A Case Study of PT Bank XYZ. [report](https://drive.google.com/file/d/1lKO0rvpPRSg0cWyVvhzLL-mhMfgkxa81/view?usp=sharing), [slide](https://drive.google.com/file/d/1MFIaEVGswMIBLGaw9YAuU9SjqbKYcHET/view?usp=sharing).
 
 * [Fakhri Akmal Hidayat](https://www.linkedin.com/in/fakhri-akmal-hidayat-0b12a6150/) (2-2024/2025) - Adaptive Scheduling for Serverless Platforms Using SRTF and Dynamic Aging Approaches. [report](https://drive.google.com/file/d/1TfjIW1CGhHCp8cmkJGg3IMl-GxJsSmmy/view?usp=sharing), [slide](https://drive.google.com/file/d/1cUuJn0LfN1VpkU9pXbC5hm48cCWwM4Sh/view?usp=sharing), [repo](github.com/fakhriakmalh/adaptive-scheduler-faas).
 

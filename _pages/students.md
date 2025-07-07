@@ -17,8 +17,6 @@ nav_order: 2
 
 * [Irwan Shofwan](https://www.linkedin.com/in/irwanshofwan/) (1-2025/2026) - Strategic Plan for Migrating the Access Management System to Ensure Sarbanes-Oxley Act Compliance: A Case Study of PT XYZ.
 
-* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (1-2025/2026) - MLOps Architecture for Distributed Streaming Learning.
-
 * [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (1-2025/2026) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
 
 ***Past***

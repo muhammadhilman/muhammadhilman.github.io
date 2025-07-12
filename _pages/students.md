@@ -23,7 +23,7 @@ nav_order: 2
 
 * [Arief Dharmawan](https://www.linkedin.com/in/arief-dharmawan/) (2-2024/2025) - ATM Network Infrastructure Migration Strategy from Bank to PT XYZ. [report](https://drive.google.com/file/d/1KfzsX0tPONrFiVNrlcX7aiaKcD1JBB25/view?usp=sharing), [slide](https://drive.google.com/file/d/1WGEcilpccSvj6S1NO5FEtkKycoQRJauQ/view?usp=sharing).
 
-* [Bayu Sektiaji](https://www.linkedin.com/in/bayusektiaji/) (2-2024/2025) - IT Infrastructure Optimization: A Case Study on Transitioning from Virtual Machine Servers to a Serverless Architecture for PT XYZ's School Management System Platform.
+* [Bayu Sektiaji](https://www.linkedin.com/in/bayusektiaji/) (2-2024/2025) - Migration Strategy from Server-Based to Serverless on Public Cloud: Case Study of School Management System PT XYZ. [report](https://drive.google.com/file/d/1LDV5xmqS8Hy8Mq0Xk376RhioX6DtDjAH/view?usp=sharing), [slide](https://drive.google.com/file/d/1j9mfRU2_PhBYi6ufgkk6eP5jpTjMdM_S/view?usp=sharing).
 
 * [Egriano Aristianto](https://www.linkedin.com/in/egrianoaristianto/) (2-2024/2025) - Information System Compliance And Assesment Framework for Personal Data Protection Regulation: A Case Study of PT Bank XYZ. [report](https://drive.google.com/file/d/1lKO0rvpPRSg0cWyVvhzLL-mhMfgkxa81/view?usp=sharing), [slide](https://drive.google.com/file/d/1MFIaEVGswMIBLGaw9YAuU9SjqbKYcHET/view?usp=sharing).
 

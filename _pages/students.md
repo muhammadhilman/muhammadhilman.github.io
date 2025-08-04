@@ -13,11 +13,17 @@ nav_order: 2
 
 * [Aji Prastio Wibowo](https://www.linkedin.com/in/ajoyajoya/) (1-2025/2026) - Feasibility Study on the Implementation of Blockchain-Based Property Asset Tokenization: A Case Study of PT Bank Tabungan Negara (Persero) Tbk (BTN).
 
+* [Fadhil Rasendriya Prabowo](https://www.linkedin.com/in/fadhil-rasendriya-prabowo-38b5b1195/) (1-2025/2026) - General Purpose GPU Library for AI Infrastructure.
+
 * [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (1-2025/2026) - Real-time Traffic Anomaly Detection with Networking Telemetry.
 
 * [Irwan Shofwan](https://www.linkedin.com/in/irwanshofwan/) (1-2025/2026) - Strategic Plan for Migrating the Access Management System to Ensure Sarbanes-Oxley Act Compliance: A Case Study of PT XYZ.
 
+* [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (1-2025/2026) - MLOps for Real-time Online Learning System.
+
 * [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (1-2025/2026) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
+
+[Tara Mazaya Lababan](https://www.linkedin.com/in/tara-mazaya-lababan/) (1-2025/2026) - Scheduling for Multi-tenant Kubernetes Infrastructure.
 
 ***Past***
 
@@ -49,15 +55,31 @@ nav_order: 2
 
 * [Adrial Natanael Liong](https://www.linkedin.com/in/adrial-natanael/) (1-2025/2026) - Time Series-based Approach to Elastic Kubernetes Scaling.
 
+* [Arvin](https://www.linkedin.com/in/arvinciu/) (1-2025/2026) - Blockchain-based Real Estate Investment System.
+
 * [Danendra Herdiansyah](https://www.linkedin.com/in/danendra-herdiansyah/) (1-2025/2026) - An Approach for Reducing Vendor Lock-in and Response Time in Serverless Workflows.
+
+* [Ester Gracia](https://www.linkedin.com/in/ester-gracia) (1-2025/2026) - Real-time Streaming Infrastructure.
 
 * [Gabriella Naomi Hutagalung](https://www.linkedin.com/in/gabriellanaomihutagalung/) (1-2025/2026) - Constraint-Aware Recovery Decision Making for Kubernetes Using BiLSTM and Infrastructure Automation.
 
 * [Hugo Sulaiman Setiawan](https://www.linkedin.com/in/hugo-setiawan/) (1-2025/2026) - Developing a Kubernetes-Based Multi-Tenant Container-as-a-Service Platform.
 
+* [Juan Maxwell Tanaya](https://www.linkedin.com/in/juan-maxwell-tanaya/) (1-2025/2026) - Real-time Streaming Infrastructure.
+
 * [Maurice Yang](https://www.linkedin.com/in/maurice-yang/) (1-2025/2026) - Continuous Autonomous Periodically Synced Unified LSTM to Predict Kubernetes Resource Usage.
 
+* [Muhammad Fachrudin Firdaus](https://www.linkedin.com/in/firdausfarul/) (1-2025/2026) - Blockchain-based Real Estate Investment System.
+
+* [Mika Ahmad Al Husseini](https://www.linkedin.com/in/mika-ahmad/) (1-2025/2026) - Blockchain-based Real Estate Investment System.
+
+* [Naufal Weise Widyatama](https://www.linkedin.com/in/naufal-weise-64990920a/) (1-2025/2026) - Real-time Streaming Infrastructure.
+
 * [Robert Benyamin](https://www.linkedin.com/in/robert-benyamin/) (1-2025/2026) - Multi-tenant Kubernetes Infrastructure.
+
+* [Syazantri Salsabila](https://www.linkedin.com/in/syazantri-salsabila/) (1-2025/2026) - Federated Learning Infrastructure.
+
+* [Wahyu Ridho Anggoro](https://www.linkedin.com/in/wahyu-ridho-anggoro/) (1-2025/2026) - Blokchain-based Real Estate Investment System.
 
 ***Past***
 

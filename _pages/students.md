@@ -23,7 +23,7 @@ nav_order: 2
 
 * [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (1-2025/2026) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
 
-[Tara Mazaya Lababan](https://www.linkedin.com/in/tara-mazaya-lababan/) (1-2025/2026) - Scheduling for Multi-tenant Kubernetes Infrastructure.
+* [Tara Mazaya Lababan](https://www.linkedin.com/in/tara-mazaya-lababan/) (1-2025/2026) - Scheduling for Multi-tenant Kubernetes Infrastructure.
 
 ***Past***
 

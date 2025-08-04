@@ -192,11 +192,11 @@ Interference in Multi-tenant Kubernetes Architectures. [report](https://drive.go
 
 * [Michael Susanto](https://www.linkedin.com/in/michaelsusanto81/) (1-2021/2022) - TweetReam: Cloud-based Real-time Tweet Streaming Platform for Large Scale Microblogging Data Processing. [report](https://drive.google.com/file/d/1w9Hhm2kT-5e2rKusWX1BrVYet3v__Ylw/view?usp=sharing), [repo](https://github.com/michaelsusanto81/tweetream).
 
-* [Yosua Krisnando Bagaskara](https://www.linkedin.com/in/yosua-krisnando-bagaskara/) (1-2021/2022) - ReBlogSum: Real-time Summarization Platform for Processing Large Scale Live Blog Data. [report](https://drive.google.com/file/d/1kMFEXQVnTrX9ql9100HFDkbGDy39QQ6s/view?usp=sharing), [slide](https://drive.google.com/file/d/1Xzevn1ZL8ANwQmycl0xV1EDhcW4gSk1w/view?usp=sharing), [repo](https://gitlab.com/yosua1010101/reblogsum).
+* [Yosua Krisnando Bagaskara](https://www.linkedin.com/in/yosua-krisnando-bagaskara/) (1-2021/2022) - ReBlogSum: Real-time Summarization Platform for Processing Large Scale Live Blog Data. [report](https://s.id/yosua-report-1-2122), [slide](https://drive.google.com/file/d/1Xzevn1ZL8ANwQmycl0xV1EDhcW4gSk1w/view?usp=sharing), [repo](https://gitlab.com/yosua1010101/reblogsum).
 
-* [Eka Satria Soekarno](https://www.linkedin.com/in/ekasatria/) (1-2015/2016) - Analyzing Docker's Performance for Molecular Dynamic Simulation Based on GPU with AMBER. [report](https://drive.google.com/file/d/1gsfJFqWU038YIER7IEfE71zfwWTlERYb/view?usp=sharing), [slide](https://drive.google.com/file/d/1kNr6UqQgnORNrk8ciToO9SZoD_bfWRpn/view?usp=sharing). Co-supervised with [Prof. Heru Suhartanto](https://scholar.google.com/citations?user=bNZZwHkAAAAJ&hl=en).
+* [Eka Satria Soekarno](https://www.linkedin.com/in/ekasatria/) (1-2015/2016) - Analyzing Docker's Performance for Molecular Dynamic Simulation Based on GPU with AMBER. [report](https://s.id/eka-report-1-1516), [slide](https://s.id/eka-slide-1-1516). Co-supervised with [Prof. Heru Suhartanto](https://scholar.google.com/citations?user=bNZZwHkAAAAJ&hl=en).
 
-* [Agung Putra Pasaribu](https://www.linkedin.com/in/agung-putra-pasaribu-a16496201/) (2-2014/2015) - Analyzing Docker's Performance for Virtual Screening of Indonesian Medicinal Plants with Autodock and Autodock Vina. [report](https://s.id/AqYAY), [slide](https://drive.google.com/file/d/1b3k9MuwGysCqVyyMaWryzyXTVP91we1M/view?usp=sharing).
+* [Agung Putra Pasaribu](https://www.linkedin.com/in/agung-putra-pasaribu-a16496201/) (2-2014/2015) - Analyzing Docker's Performance for Virtual Screening of Indonesian Medicinal Plants with Autodock and Autodock Vina. [report](https://s.id/agung-report-2-1415), [slide](https://s.id/agung-slide-2-1415).
 
 * [Muhammad Fajar Siddiq](https://www.linkedin.com/in/mfajar31/) (2-2014/2015) - Performance Analysis of VirtualBox and Docker for Cloud Computing Platform. [report](https://s.id/fajar-report-2-1415), [slide](https://s.id/fajar-slide-2-1415).
 

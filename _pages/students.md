@@ -19,6 +19,8 @@ nav_order: 2
 
 * [Irwan Shofwan](https://www.linkedin.com/in/irwanshofwan/) (1-2025/2026) - Strategic Plan for Migrating the Access Management System to Ensure Sarbanes-Oxley Act Compliance: A Case Study of PT XYZ.
 
+* [La Ode Rahil Atansa](https://www.linkedin.com/in/laoderahilatansa/) (1-2025/2026) - Federated Data Infrastructure.
+
 * [Muhammad Aulia Adil Murtito](https://www.linkedin.com/in/aulia-adil/) (1-2025/2026) - MLOps for Real-time Online Learning System.
 
 * [Rahadi Jalu Yoga Utama](https://www.linkedin.com/in/rahadijalu/) (1-2025/2026) - Implementation of Practical Deep Reinforcement Learning-based Congestion Control.
@@ -77,17 +79,15 @@ nav_order: 2
 
 * [Robert Benyamin](https://www.linkedin.com/in/robert-benyamin/) (1-2025/2026) - Multi-tenant Kubernetes Infrastructure.
 
-* [Syazantri Salsabila](https://www.linkedin.com/in/syazantri-salsabila/) (1-2025/2026) - Federated Learning Infrastructure.
-
 * [Wahyu Ridho Anggoro](https://www.linkedin.com/in/wahyu-ridho-anggoro/) (1-2025/2026) - Blokchain-based Real Estate Investment System.
 
 ***Past***
 
-* [Anindya Lokeswara](https://www.linkedin.com/in/anindya-lokeswara/), [Bryan Raihan 'Ilman](https://www.linkedin.com/in/bryan-ilman-0786381a7/), [Naufal Weise Widyatama](https://www.linkedin.com/in/naufal-weise-64990920a/) (2-2024/2025) - Adaptive Kafka Brokers, Topic Partition, and Consumer Allocation in FogVerse for Real-Time System Monitoring and Alerting. [report](https://drive.google.com/file/d/1nueJLCB4xJmlDnjfXB_LTsVtRvEdQtCw/view?usp=sharing), [slide](https://drive.google.com/file/d/1zNseFCCOkYHt4RzeW6wDlP8mfxcdqxts/view?usp=sharing), [repo](https://github.com/naufalweise/fogverse/tree/refactoring).
-
 * [Ahmadhi Prananta Hastiputra](https://www.linkedin.com/in/ahmadhi/), [Emir Shamsuddin Fadhlurrahman](https://www.linkedin.com/in/emir-shamsuddin/), [Johannes Setiawan](https://www.linkedin.com/in/johannes-setiawan-b24884225/) (2-2024/2025) - A Kafka-Based Distributed Real-Time Intrusion Detection System with Monitoring and Alerting. [report](https://drive.google.com/file/d/1JiBXOn9v7nGl7nqiyvW8GsFZXJ96S_sW/view?usp=sharing), [slide](https://drive.google.com/file/d/1hdTvrE2VdfJ-56IJTWGrJMVpSZvZRBdR/view?usp=sharing), [repo](https://github.com/NetLog-IDS).
 
 * [Alfredo Austin](https://www.linkedin.com/in/alfredo-austin/), [Kevin Marcellius Alrino](https://www.linkedin.com/in/kevin-marcellius/), [Rayhan Putra Randi](https://www.linkedin.com/in/rayhanrandi/) (2-2024/2025) - Evaluating StreamK3s for Efficient Data Processing and Autoscaling in a Bike-Sharing System. [report](https://drive.google.com/file/d/1uNX45igiV8PHccgEwYM7ks6KrEP0ik9R/view?usp=sharing), [slide](https://drive.google.com/file/d/1IpFk03CrSnqrtnAsF498-h-KcTrp6Zmx/view?usp=sharing), [repo](https://github.com/streamk3s-csui/).
+
+* [Anindya Lokeswara](https://www.linkedin.com/in/anindya-lokeswara/), [Bryan Raihan 'Ilman](https://www.linkedin.com/in/bryan-ilman-0786381a7/), [Naufal Weise Widyatama](https://www.linkedin.com/in/naufal-weise-64990920a/) (2-2024/2025) - Adaptive Kafka Brokers, Topic Partition, and Consumer Allocation in FogVerse for Real-Time System Monitoring and Alerting. [report](https://drive.google.com/file/d/1nueJLCB4xJmlDnjfXB_LTsVtRvEdQtCw/view?usp=sharing), [slide](https://drive.google.com/file/d/1zNseFCCOkYHt4RzeW6wDlP8mfxcdqxts/view?usp=sharing), [repo](https://github.com/naufalweise/fogverse/tree/refactoring).
 
 * [Bintang Pratama](https://www.linkedin.com/in/bntpratama/), [Dipa Alhaza](https://www.linkedin.com/in/dpaalh/), [Vinsensius Ferdinando](https://www.linkedin.com/in/vinsensius-ferdinando-0b0296219/) (2-2024/2025) - Evaluation of Performance Fairness and
 Interference in Multi-tenant Kubernetes Architectures. [report](https://drive.google.com/file/d/1nZxsH8Efg8kdMfnb-O698icgdTiBhVTZ/view?usp=sharing), [slide](https://drive.google.com/file/d/1dCD0M_2q5ILOqzGkwXJ1Di3QFIPdcwud/view?usp=sharing), [repo](https://github.com/K8s-Multitenancy).

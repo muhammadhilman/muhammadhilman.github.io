@@ -13,6 +13,8 @@ nav_order: 2
 
 * [Aji Prastio Wibowo](https://www.linkedin.com/in/ajoyajoya/) (1-2025/2026) - Feasibility Study on the Implementation of Blockchain-Based Property Asset Tokenization: A Case Study of PT Bank Tabungan Negara (Persero) Tbk (BTN).
 
+* [Azzam Hanif](https://www.linkedin.com/in/azzam-hanif-481537112/) (1-2025/2026) - Federated Learning Infrastructure.
+
 * [Fadhil Rasendriya Prabowo](https://www.linkedin.com/in/fadhil-rasendriya-prabowo-38b5b1195/) (1-2025/2026) - General Purpose GPU Library for AI Infrastructure.
 
 * [Handoko Baguswasito](https://www.linkedin.com/in/handokobaguswasito/) (1-2025/2026) - Real-time Traffic Anomaly Detection with Networking Telemetry.

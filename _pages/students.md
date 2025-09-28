@@ -67,8 +67,6 @@ nav_order: 2
 
 * [Gabriella Naomi Hutagalung](https://www.linkedin.com/in/gabriellanaomihutagalung/) (1-2025/2026) - Constraint-Aware Recovery Decision Making for Kubernetes Using BiLSTM and Infrastructure Automation.
 
-* [Hugo Sulaiman Setiawan](https://www.linkedin.com/in/hugo-setiawan/) (1-2025/2026) - Developing a Kubernetes-Based Multi-Tenant Container-as-a-Service Platform.
-
 * [Juan Maxwell Tanaya](https://www.linkedin.com/in/juan-maxwell-tanaya/) (1-2025/2026) - Real-time Streaming Infrastructure.
 
 * [Maurice Yang](https://www.linkedin.com/in/maurice-yang/) (1-2025/2026) - Continuous Autonomous Periodically Synced Unified LSTM to Predict Kubernetes Resource Usage.

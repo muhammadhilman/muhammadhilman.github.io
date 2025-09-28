@@ -192,9 +192,9 @@ Interference in Multi-tenant Kubernetes Architectures. [report](https://drive.go
 
 * [Leonardo](https://www.linkedin.com/in/leonardo-leo-5a5845175/) (1-2021/2022) - Utilization of Serverless Architecture for Application Development in Critical Situation.
 
-* [Michael Susanto](https://www.linkedin.com/in/michaelsusanto81/) (1-2021/2022) - TweetReam: Cloud-based Real-time Tweet Streaming Platform for Large Scale Microblogging Data Processing. [report](https://drive.google.com/file/d/1w9Hhm2kT-5e2rKusWX1BrVYet3v__Ylw/view?usp=sharing), [repo](https://github.com/michaelsusanto81/tweetream).
+* [Michael Susanto](https://www.linkedin.com/in/michaelsusanto81/) (1-2021/2022) - TweetReam: Cloud-based Real-time Tweet Streaming Platform for Large Scale Microblogging Data Processing. [report](https://s.id/michael-report-1-2122), [repo](https://github.com/michaelsusanto81/tweetream).
 
-* [Yosua Krisnando Bagaskara](https://www.linkedin.com/in/yosua-krisnando-bagaskara/) (1-2021/2022) - ReBlogSum: Real-time Summarization Platform for Processing Large Scale Live Blog Data. [report](https://s.id/yosua-report-1-2122), [slide](https://drive.google.com/file/d/1Xzevn1ZL8ANwQmycl0xV1EDhcW4gSk1w/view?usp=sharing), [repo](https://gitlab.com/yosua1010101/reblogsum).
+* [Yosua Krisnando Bagaskara](https://www.linkedin.com/in/yosua-krisnando-bagaskara/) (1-2021/2022) - ReBlogSum: Real-time Summarization Platform for Processing Large Scale Live Blog Data. [report](https://s.id/yosua-report-1-2122), [slide](https://s.id/yosua-slide-1-2122), [repo](https://s.id/yosua-repo-1-2122).
 
 * [Eka Satria Soekarno](https://www.linkedin.com/in/ekasatria/) (1-2015/2016) - Analyzing Docker's Performance for Molecular Dynamic Simulation Based on GPU with AMBER. [report](https://s.id/eka-report-1-1516), [slide](https://s.id/eka-slide-1-1516). Co-supervised with [Prof. Heru Suhartanto](https://scholar.google.com/citations?user=bNZZwHkAAAAJ&hl=en).
 

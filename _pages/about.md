@@ -23,6 +23,7 @@ As a computer systems enthusiast with a keen interest in ***networks, clouds, an
 
 At present, I am engaged in three flagship projects at Universitas Indonesia, and we are constantly pushing the boundaries of what is possible in our field.
 
+* **Federated Infrastructure** includes research on efficient unified schema mapping for federated data and machine learning model compression for federated learning infrastructures.
 * **Real-time Streaming Infrastructures** includes research on distributed event streaming platforms, publish/subscribe techniques, and low-latency transport protocols with a focus on Kafka.
 * **GPU-based HPC Infrastructures** includes research on CUDA and ROCm code portability and the HPC infrastructure management platform.
 * **Container Orchestration** includes research on resource management of Kubernetes clusters and serverless platforms. 
